@@ -12,6 +12,7 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 > ## *Safety Analysis of Autonomous Vehicle Systems Software*
 > Master’s Thesis (30 ECTS) [Reference Paper](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2)
  <br />
+
 ## Supervisor
 >### *Dietmar Alfred Paul Kurt Pfahl, PhD*
  <br />

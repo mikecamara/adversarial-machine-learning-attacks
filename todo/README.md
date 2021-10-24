@@ -9,13 +9,15 @@
 * <del>Create first version of Overleaf latex document and add it to git as well</del> [Here](https://www.overleaf.com/read/hvmfscbftgzp)
 * <del>Create living document repository</del> [Here](../README.md)
 * <del>Train car to avoid obstables on the track for technical demo</del> [Here](https://www.youtube.com/watch?v=2cdkh3g9h4E)
-* <del>Create work break down structure for the project ni form of Gantt Chart with a timeline of the project landmarks</del> [Here](https://sharing.clickup.com/g/h/q5w3e-61/e4eb0ae7475178f)
+* <del>Create Work-Break-Down structure for the project in form of Gantt Chart with a timeline of the project landmarks</del> [Here](https://sharing.clickup.com/g/h/q5w3e-61/e4eb0ae7475178f)
 * <del>Define and document crucial dates</del> [Here](../important-dates/README.md)
+* <del>Duplicate LaTeX document from Overleaf in GitHub for Backup and version control</del> [Here](../latex/README.md)
+* <del>Define research methodology</del> [Here](../thesis-plan/README.md)
 * Read material reference from MTAT.03.270 Seminar on Enterprise Software
 * Investigate IBM Adversarial Robustness Toolbox
 * Create initial research questions
 * Create Table of content in the Latex document
-* Define research methodology
+
 * First selection of papers
 * Explain what is IBM ART and how can be useful for us 
 * Create the abstract structure in LaTeX doc
@@ -43,15 +45,19 @@
 * Go to University of Tartu to replace car batteries
 * Work on the Interdiate presentation and technical demo
 * Duplicate paper, and implement ART in the code base compare results with and without ART
-* Ask Maarja Kungla and Dietmar about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm update with all deliverables
-
+* Ask Maarja Kungla and Dietmar about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm update with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is
+located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023)
+*  Focus on Literature Review
 <hr>
 
 ## Week 3
 ### 1/November/2021 to 7/November/2021
 
 * **(2/11 - 4pm) Meeting Dietmar #4**
-* Ask Dietmar about guidance in chosing my examiners well so I can interact with them already [Reference](Add.ref.here)
+* Ask Dietmar about guidance in chosing my examiners well so I can interact with them already according to page two in [this reference](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf). 
+* What is the norm for your university? At UT, it is normal to interact regularly with your thesis commitee? 
+* Do my examiners need to be told about my research?
+* Find out what the local rules are for citation style?
 * (3/11) Intermediate presentation and technical demo 
 
 <hr>

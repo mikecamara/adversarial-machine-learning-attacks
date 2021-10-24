@@ -1,4 +1,4 @@
-## List of meetings with the supervisor
+## List of meetings minutes with the supervisor
 
 * [First Contact](#first-contact-with-supervisor)
 * [Meeting 1](#meeting-1)
@@ -12,30 +12,30 @@
 ### *19/October/2021 - 1 pm (duration 45 minutes) - via Skype*
 <br>
 
-We started the meeting with Dietmar asking to see the results from the assigned task and he also mentioned some concerns in relation to my work ethics and my motivation for studies. 
+* We started the meeting with Dietmar asking to see the results from the assigned task and he also mentioned some concerns in relation to my work ethics and my motivation for studies. 
 
-Dietmar explained how I seemed to jump from one project to the other as soon as I encountered dificulties. 
+* Dietmar explained how I seemed to jump from one project to the other as soon as I encountered dificulties. 
 
-I explained, how this was not the case, and I had serious reasons to choose the new topic, including being a very close match to my skills and interests. 
+* I explained, how this was not the case, and I had serious reasons to choose the new topic, including being a very close match to my skills and interests. 
 
-Then I also explained my participation in the ADL project, particularly in the DeltaX track. 
+* Then I also explained my participation in the ADL project, particularly in the DeltaX track. 
 
-We then discussed the paper [Attack and Fault Injection in Self-driving Agents on the Carla Simulator – Experience Report](https://doi.org/10.1007/978-3-030-83903-1_14) which was used as the [first refence to the available topic](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2) and contains the application of the IBM Adversarial Robustness Toolbox.
+* We then discussed the paper [Attack and Fault Injection in Self-driving Agents on the Carla Simulator – Experience Report](https://doi.org/10.1007/978-3-030-83903-1_14) which was used as the [first refence to the available topic](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2) and contains the application of the IBM Adversarial Robustness Toolbox.
 
-Dietmar mentioned how we now need to answer two questions:
+* Dietmar mentioned how we now need to answer two questions:
 
-1) Which attacks from the IBM ART are relevant for our project?
-2) Could we use the IBM ART approach to add robustness and improve the performance to the self-driving toy car?
+* 1) Which attacks from the IBM ART are relevant for our project?
+* 2) Could we use the IBM ART approach to add robustness and improve the performance to the self-driving toy car?
 
-Some other considerations were if using the IBM ART would make the car have less colisions.
+* Some other considerations were if using the IBM ART would make the car have less colisions.
 
-We agree that I would create a repository and would document the process of understading better the ART toolbox to improve the performance of the neural networks. 
+* We agree that I would create a repository and would document the process of understading better the ART toolbox to improve the performance of the neural networks. 
 
-Dietmar requested me to create a 10 lines bullet point list to remember him what we discussed and what I will do next week as well as the report dates, the results of ART toolbox investigation, create a living document to keep track of what I did.
+* Dietmar requested me to create a 10 lines bullet point list to remember him what we discussed and what I will do next week as well as the report dates, the results of ART toolbox investigation, create a living document to keep track of what I did.
 
-Before meeting him, tell as well what worked and what didn't.
+* Before meeting him, tell as well what worked and what didn't.
 
-We agreed to meet again via Skype on the 2nd of November at 4 pm.
+* We agreed to meet again via Skype on the 2nd of November at 4 pm.
 
 **We agreed that by the 27th of October, I would share with Dietmar:**
 ```
@@ -49,28 +49,28 @@ We agreed to meet again via Skype on the 2nd of November at 4 pm.
 # Meeting 2 
 ### *15/October/2021 - 5 pm (duration 30 minutes) - via Skype*
 <br>
-Dietmar had send a reference paper about Mutation Testing on the 12th of October, and some PIT mutation test tool reference.
+* Dietmar had send a reference paper about Mutation Testing on the 12th of October, and some PIT mutation test tool reference.
 
-I read the paper prior the meeting, investigate the framework and got aquainted with mutation testing.
+* I read the paper prior the meeting, investigate the framework and got aquainted with mutation testing.
 
-During the meeting, Dietmar highlighted how he had found and would then forward to me a paper (https://dl.acm.org/doi/10.1145/3412841.3442027) that had used four different programs as test-bed to implement and analize mutation testing techniques, namely:
+* During the meeting, Dietmar highlighted how he had found and would then forward to me a paper (https://dl.acm.org/doi/10.1145/3412841.3442027) that had used four different programs as test-bed to implement and analize mutation testing techniques, namely:
 
-- Ethereum Aleth https://github.com/ethereum/aleth#building-from-source
-- PyTorch Intrusive framework library https://github.com/pytorch/pytorch/blob/master/c10/util/intrusive_ptr.h
-- Microsoft SEAL encryption library  https://github.com/Microsoft/SEAL
-- Sed stream editor https://linux.die.net/man/1/sed
+>- Ethereum Aleth https://github.com/ethereum/aleth#building-from-source
+>- PyTorch Intrusive framework library https://github.com/pytorch/pytorch/blob/master/c10/util/intrusive_ptr.h
+>- Microsoft SEAL encryption library  https://github.com/Microsoft/SEAL
+>- Sed stream editor https://linux.die.net/man/1/sed
 
-Dietmar then assigned my first task which was to investigate the libraries, run the tests and get back to him with the findings and results. 
+* Dietmar then assigned my first task which was to investigate the libraries, run the tests and get back to him with the findings and results. 
 
-I asked Dietmar what was the process for finding, selecting and reading papers.
+* I asked Dietmar what was the process for finding, selecting and reading papers.
 
-He mention how we should first read the Abstract and try to find the 5 elements that all abstracts should have:
+* He mention how we should first read the Abstract and try to find the 5 elements that all abstracts should have:
 
-- Context
-- Problem
-- Motivation and Goals
-- Method Used
-- Summary with Main Results
+>- Context
+>- Problem
+>- Motivation and Goals
+>- Method Used
+>- Summary with Main Results
 
 Then if it is still interesting to you we should read the paper in the following order:
 

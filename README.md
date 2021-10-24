@@ -29,7 +29,7 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 * [Important Dates](important-dates/README.md)
 * [TODO List](todo/README.md)
 * [References](references/README.md)
-* [Abstract](abstract/README.md)
+* [Thesis Plan](thesis-plan/README.md)
 * [Table of Contents](table-of-contents/README.md)
 * [Code](code/README.md)
 * [Thesis Requirements](requirements/README.md)

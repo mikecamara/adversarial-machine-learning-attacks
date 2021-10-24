@@ -13,11 +13,10 @@
 * <del>Define and document crucial dates</del> [Here](../important-dates/README.md)
 * <del>Duplicate LaTeX document from Overleaf in GitHub for Backup and version control</del> [Here](../latex/README.md)
 * <del>Define research methodology</del> [Here](../thesis-plan/README.md)
-* Read material reference from MTAT.03.270 Seminar on Enterprise Software
+* <del>Read material reference from MTAT.03.270 Seminar on Enterprise Software</del> [Here](../thesis-plan/README.md)
 * Investigate IBM Adversarial Robustness Toolbox
 * Create initial research questions
 * Create Table of content in the Latex document
-
 * First selection of papers
 * Explain what is IBM ART and how can be useful for us 
 * Create the abstract structure in LaTeX doc

@@ -74,36 +74,36 @@
 
 Then if it is still interesting to you we should read the paper in the following order:
 
-- Introduction
-- Conclusion
-- Summary results
+>- Introduction
+>- Conclusion
+>- Summary results
 
-He first recommended me to have a look at the MTAT.03.270 Seminar on Enterprise Software (https://courses.cs.ut.ee/2021/enterprise/spring/Main/HomePage) as the first reference, especially the introduction slides and the section on Mapping Studies in SE.
+* He first recommended me to have a look at the MTAT.03.270 Seminar on Enterprise Software (https://courses.cs.ut.ee/2021/enterprise/spring/Main/HomePage) as the first reference, especially the introduction slides and the section on Mapping Studies in SE.
 
-Dietar mentioned how is crucial to be able to answer what you want to know, search literature databases, search terms, define what papers to include and exclude, read other papers methods and tools used. 
+* Dietar mentioned how is crucial to be able to answer what you want to know, search literature databases, search terms, define what papers to include and exclude, read other papers methods and tools used. 
 
-So I went ahead and after spending the weekend investigating the frameworks, I noticed that Aleth had been deprecated, and running the tests in the other programs wouldn't be a trivial task, it had been built on top of complex C++ code strucure, and faced some compatibility issues with my Macbook M1 processor. 
+* So I went ahead and after spending the weekend investigating the frameworks, I noticed that Aleth had been deprecated, and running the tests in the other programs wouldn't be a trivial task, it had been built on top of complex C++ code strucure, and faced some compatibility issues with my Macbook M1 processor. 
 
-After spending several hours debugging without success and adding the fact that I wouldn't be able to perform my initial idea to implement mutation tests in the company that I work for I started to lose the motivation for the topic. 
+* After spending several hours debugging without success and adding the fact that I wouldn't be able to perform my initial idea to implement mutation tests in the company that I work for I started to lose the motivation for the topic. 
 
-So I decided to have another search for available topics and found another topic offered by Dietmar which was an incredible and surprisingly close match to my studies and skills. 
+* I decided to have another search for available topics and found another topic offered by Dietmar which was an incredible and surprisingly close match to my studies and skills. 
 
 https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2
 
-The topic Safety Analysis of Autonomous Vehicle Systems Software (in collaboration with the Autonomous Driving Lab) was a strong candidate to be a good match since I am currently working in the ADL, and after readind the reference paper Attack and Fault Injection in Self-driving Agents on the Carla Simulator https://doi.org/10.1007/978-3-030-83903-1_14 I became extremely interested in the topic.
+* The topic Safety Analysis of Autonomous Vehicle Systems Software (in collaboration with the Autonomous Driving Lab) was a strong candidate to be a good match since I am currently working in the ADL, and after readind the reference paper Attack and Fault Injection in Self-driving Agents on the Carla Simulator https://doi.org/10.1007/978-3-030-83903-1_14 I became extremely interested in the topic.
 
-I've emailed Dietmar on the 18th of October and asked if the topic was still available. He replied that we could meet in the next day to discuss my experience in the ADL and the possibility of working on the topic.
+* I've emailed Dietmar on the 18th of October and asked if the topic was still available. He replied that we could meet in the next day to discuss my experience in the ADL and the possibility of working on the topic.
 <hr>
 <br>
 
 # Meeting 1 
 ### *8/October/2021 - 3 pm (duration 15 minutes) - via Skype*
 <br>
-In a brief meeting, Dietmar explained the nature of Mutation Testing research, wich requires the student to have a solid code base with testing implemented, so we could apply Mutation Testing tools, such as PIT (for java), to measure the robustness of the testing structure. 
+* In a brief meeting, Dietmar explained the nature of Mutation Testing research, wich requires the student to have a solid code base with testing implemented, so we could apply Mutation Testing tools, such as PIT (for java), to measure the robustness of the testing structure. 
 
-I then explained to Dietmar how the company that I work for does not had a testing structure implemented, which would disquilify them for a test-bed for the research. 
+* I then explained to Dietmar how the company that I work for does not had a testing structure implemented, which would disquilify them for a test-bed for the research. 
 
-However, Dietmar explained that such study could be performed in a open-source project and he would send me a topic proposal early in the following week. 
+* However, Dietmar explained that such study could be performed in a open-source project and he would send me a topic proposal early in the following week. 
 
 <hr>
 <br>
@@ -112,6 +112,6 @@ However, Dietmar explained that such study could be performed in a open-source p
 ### *7/October/2021 - via email*
 <br>
 
-When I was researching for available masters thesis topics in the University of Tartu Software Engineering Group it came across a Case Study in Software Testing or Software Analytics (focus on software quality)  https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl1 which was a "placeholder" Masters project topic, it caught my attention becaue I thought I could apply it in my current job.
+* When I was researching for available masters thesis topics in the University of Tartu Software Engineering Group it came across a Case Study in Software Testing or Software Analytics (focus on software quality)  https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl1 which was a "placeholder" Masters project topic, it caught my attention because I thought I could apply it in my current job.
 
-I've reached out to the topic supervisor Dietmar Pfahl and we agreed to meet to discuss the possibility in the next day.
+* I've reached out to the topic supervisor Dietmar Pfahl and we agreed to meet to discuss the possibility in the next day.

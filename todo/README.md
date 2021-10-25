@@ -1,8 +1,8 @@
-# Thesis Backlog
-## TODO list week-by-week
-#### 33 - Total number of weeks
-#### 18 - Meetings with the supervisor (estimated)
-
+# Thesis Project Backlog
+## **TODO** list week-by-week
+#### **Project total number of weeks** - 33 
+#### **Meetings with the supervisor** (estimated) - 18
+#### **Current week** - 2
 <hr>
 
 ## Week 1
@@ -227,7 +227,7 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 ### 23/May/2022 to 29/May/2022
 
 * Polish and practice defence presentation
-**Meeting the supervisor #18 (3/5 - 4pm)**
+* **Meeting the supervisor #18 (3/5 - 4pm)**
 <hr>
 
 ## Week 33 

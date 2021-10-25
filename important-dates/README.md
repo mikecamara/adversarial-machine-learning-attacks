@@ -10,7 +10,7 @@
 * Submit thesis title and supervisor name 
 
 ## 3/11/2021
-* Intermediate Presentation for Seminar, techinal demo and draft final report
+* Intermediate Presentation for Seminar, technical demo and draft final report
 * Mid term presentation ADL and report peer feedback is due to deliver. 
 
 ## 24/11/2021 
@@ -34,7 +34,7 @@
 * Preliminary Defence Thesis 
 
 ## 14/05/2022
-* Reviewer submits review to board and to me
+* Reviewer submits reviews to board and me
 
 ## **17/05/2022**
 * ### ***Submit Thesis*** 🚀

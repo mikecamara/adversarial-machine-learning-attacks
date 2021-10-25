@@ -1,4 +1,17 @@
-# Thesis
+# Thesis Plan
+
+## Goal Setting
+
+## ***What will I have achieved when I submit?***
+```
+🕵️ Improved Robustness and security of the autonomous car
+🧐 Evaluated IBM ART
+🤖 Influence the future of the research in an Adversarial Machine Learning
+🎓 A high-quality master thesis on time
+```
+
+<hr>
+<br>
 
 The typical structure of a thesis consists of the following components:
 
@@ -44,15 +57,7 @@ The typical structure of a thesis consists of the following components:
 - Evaluation)
 ```
 
-# Goal Setting
 
-## ***What will I have achieved when I submit?***
-```
-🕵️ Improved Robustness and security of the autonomous car
-🧐 Evaluated IBM ART
-🤖 Influence the future of the research in a Adversarial Machine Learning
-🎓 A high-quality master thesis on time
-```
 <br>
 <hr>
 
@@ -88,9 +93,9 @@ The typical structure of a thesis consists of the following components:
 >* Much broader classification and categorization stage
 >* It is not time-consuming task
 * **Synthesis**
->* Include no-depth analysis techiniques, e.g, toatl and summaries
+>* Include no-depth analysis techniques, e.g, total and summaries
 * **Dissemination of the results**
->* May be more limited, the aim is to influence the future of the research in a specific topic
+>* Maybe more limited, the aim is to influence the future of the research on a specific topic
 
 <br>
 
@@ -146,7 +151,7 @@ guidelines/templates for conducting mapping studies.
 * Studies presenting non-peer reviewed material.
 * Studies not presented in English.
 * Studies not accessible in full-text.
-* Books and gray literature.
+* Books and grey literature.
 * Studies that are duplicates of other studies.
 
 ## Quality Criteria applied to identified primary studies:
@@ -251,22 +256,22 @@ Paper presented at the meeting of the American Professional Society on the Abuse
 # Plan Argument
 
 ## Introduction (area of study)
-AI models are responsible for taking decisions in behalf of a the humans such as steer a car autonomously in high speed roads. Adversarial Machine Learning is an area that studies the impact of malicious attacks and threats in such models.
+AI models are responsible for taking decisions on behalf of humans such as steering a car autonomously on high-speed roads. Adversarial Machine Learning is an area that studies the impact of malicious attacks and threats in such models.
 
 ## The problem (that I tackle)
-The automobile industry need to make their AI systems more secure, but there is still no known evidence to determine how such systems perform under attack.
+The automobile industry needs to make its AI systems more secure, but there is still no known evidence to determine how such systems perform under attack.
 
 ## What the literature says about this problem
-The literature describes several state-of-the-art methods for attacking and defending classifiers that allow rapid crafting and analysis of attack and defense methods for machine learning models.
+The literature describes several state-of-the-art methods for attacking and defending classifiers that allow rapid crafting and analysis of attack and defence methods for machine learning models.
 
 ## How I tackle this problem
-In this thesis, we introduce the use of the attacks, called googa and glomping, which allowed direct measurement of model robustness. 
+In this thesis, we introduce the use of the attacks, called Evasion, Poisoning, Extraction, and Inference, which allowed direct measurement of model robustness. 
 
 ## How I implement my solution
-We describe a series of experiments on each of the four major types of attack, and show that in each case, the attack through evasion affected the safety of a previously perfect secure machine learning model.
+We describe a series of experiments on each of the four major types of attack and show that in each case, the attack through evasion affected the safety of a previously perfect secure machine learning model.
 
 ## The result
-We expect this new approach to contribute to the safety of the automobile industries and reduce the number of colisions caused by attacks, and hence making AI systems more secure.
+We expect this new approach to contribute to the safety of the automobile industries and reduce the number of collisions caused by attacks, and hence making AI systems more secure.
 
 #### TODO
 #### * Convert this argument into a chapter outline
@@ -306,7 +311,7 @@ We expect this new approach to contribute to the safety of the automobile indust
 A software engineering systematic map is a defined method to build a classification scheme and structure a software engineering field of interest. The analysis of results focuses on frequencies of publications for categories within the scheme. Thereby, the coverage of the research field can be determined. Different facets of the scheme can also be combined to answer more specific research questions.
 
 ## OBJECTIVE
-We describe how to conduct a systematic mapping study in software engineering and provide guidelines. We also compare systematic maps and systematic reviews to clarify how to chose between them. This comparison leads to a set of guidelines for systematic maps.
+We describe how to conduct a systematic mapping study in software engineering and provide guidelines. We also compare systematic maps and systematic reviews to clarify how to choose between them. This comparison leads to a set of guidelines for systematic maps.
 
 ## METHOD 
 We have defined a systematic mapping process and applied it to complete a systematic mapping study. Furthermore, we compare systematic maps with systematic reviews by systematically analyzing existing systematic reviews.

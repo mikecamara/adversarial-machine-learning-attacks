@@ -30,15 +30,15 @@
 - Gantt Chart
 - LaTeX Draft
 - What I did last week and plans for next week
-- What we talked about last meeting
-- Answer to your questions
+- What we talked about in the last meeting
+- Answer your questions
 - Important Dates
 - References
 ```
-* Go to University of Tartu to replace car batteries
-* Work on the Interdiate presentation and technical demo
+* Go to the University of Tartu to replace car batteries
+* Work on the intermediate presentation and technical demo
 * Duplicate paper, and implement ART in the code base compare results with and without ART
-* Ask Maarja Kungla about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm update with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is
+* Ask Maarja Kungla about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm up to date with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is
 located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023)
 *  Focus on Literature Review
 * Investigate IBM Adversarial Robustness Toolbox
@@ -54,11 +54,11 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 ### 1/November/2021 to 7/November/2021
 
 * **(2/11 - 4pm) Meeting the supervisor #4**
-* Ask the supervisor about guidance in chosing my examiners well so I can interact with them already according to page two in [this reference](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf). 
-* What is the norm for your university? At UT, it is normal to interact regularly with your thesis commitee? 
+* Ask the supervisor for guidance in choosing my examiners well so I can interact with them already according to page two in [this reference](http://www.cs.toronto.edu/~sme/presentations/thesiswriting.pdf). 
+* What is the norm for your university? At UT, it is normal to interact regularly with your thesis committee? 
 * Do my examiners need to be told about my research?
 * Find out what the local rules are for citation style?
-* (3/11) Intermediate presentation, report draft and technical demo in Serminar
+* (3/11) Intermediate presentation, report draft and technical demo in Seminar
 * Write Report Distributed System Seminar
 
 <hr>
@@ -173,7 +173,7 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 
 * Finish putting the thesis together
 * Finish reviewing thesis
-* work on preliminar presentation defenece
+* work on preliminary presentation defence
 <hr>
 
 ## Week 25 
@@ -181,13 +181,13 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 
 **Meeting the supervisor #14 (5/4 - 4pm)**
 
-* work on the video for preliminar defence
+* work on preliminary presentation defence
 <hr>
 
 ## Week 26 
 ### 11/April/2022 to 17/April/2022
 
-* Preliminar thesis defence
+* Preliminary thesis defence
 <hr>
 
 ## Week 27 

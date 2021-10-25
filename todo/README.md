@@ -3,6 +3,7 @@
 #### **Project total number of weeks** - 33 
 #### [**Meetings with the supervisor**](../supervisor-meetings-logs/README.md) (estimated) - 18
 #### [**Current week** - 2](#week-2)
+##### * Crossed lines means that the task is <del>DONE</del>
 <hr>
 
 ## Week 1
@@ -23,7 +24,7 @@
 ## Week 2
 ### 25/October/2021 to 31/October/2021
 
-* <del>Submit report post Donkeycar to Naveed and the supervisor</del>
+* <del>Submit report post Donkeycar to Naveed and the supervisor</del> [Here](https://softwareengineering.netlify.app/donkey-car/)
 * <del>Share documents with the supervisor and 10 lines bullet points list </del>
 
 ```
@@ -38,12 +39,12 @@
 - Important Dates
 - References
 ```
-* <del>Create Table of contents </del>
+* <del>Create Table of contents </del> [Here](../table-of-contents/README.md)
 * Go to the University of Tartu to replace car batteries
 * Work on the intermediate presentation and technical demo
 * Duplicate paper, and implement ART in the code base compare results with and without ART
 * Ask Maarja Kungla about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm up to date with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is
-located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023)
+located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023) 🤔
 *  Focus on Literature Review
 * Investigate IBM Adversarial Robustness Toolbox
 * Create initial research questions

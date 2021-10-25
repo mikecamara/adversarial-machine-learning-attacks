@@ -3,7 +3,7 @@
 #### **Project total number of weeks** - 33 
 #### [**Meetings with the supervisor**](../supervisor-meetings-logs/README.md) (estimated) - 18
 #### [**Current week** - 2](#week-2)
-##### * <del>Strikethrough</del> lines means that the task is done
+##### * <del>Strikethrough</del> text means that the task is done
 <hr>
 
 ## Week 1

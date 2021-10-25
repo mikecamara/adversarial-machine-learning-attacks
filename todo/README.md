@@ -1,8 +1,8 @@
 # Thesis Project Backlog
 ## **TODO** list week-by-week
 #### **Project total number of weeks** - 33 
-#### **Meetings with the supervisor** (estimated) - 18
-#### **Current week** - 2
+#### [**Meetings with the supervisor**](../supervisor-meetings-logs/README.md) (estimated) - 18
+#### [**Current week** - 2](#week-2)
 <hr>
 
 ## Week 1

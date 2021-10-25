@@ -10,6 +10,8 @@ The original content can be found in the following references:
 
 [Guidelines for Master Thesis](https://www.flfi.ut.ee/en/department-semiotics/guidelines-master-thesis)
 
+[Harvard Guide to Using Sources](https://usingsources.fas.harvard.edu) 
+
 <hr>
 
 ## Content

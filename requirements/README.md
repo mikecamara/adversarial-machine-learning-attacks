@@ -8,6 +8,8 @@ The original content can be found in the following references:
 
 [Requirements document](https://www.cs.ut.ee/sites/default/files/cs/guidelines_for_graduationtheses_atut_iofcs_2017.pdf)
 
+[Guidelines for Master Thesis](https://www.flfi.ut.ee/en/department-semiotics/guidelines-master-thesis)
+
 <hr>
 
 ## Content

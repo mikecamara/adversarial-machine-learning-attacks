@@ -20,8 +20,8 @@
 ## Week 2
 ### 25/October/2021 to 31/October/2021
 
-* Submit report post Donkeycar to Naveed and the supervisor
-* Share documents with the supervisor and 10 lines bullet points list 
+* <del>Submit report post Donkeycar to Naveed and the supervisor</del>
+* <del>Share documents with the supervisor and 10 lines bullet points list </del>
 
 ```
 - Project Living Document (Repository)
@@ -35,6 +35,7 @@
 - Important Dates
 - References
 ```
+* <del>Create Table of contents </del>
 * Go to the University of Tartu to replace car batteries
 * Work on the intermediate presentation and technical demo
 * Duplicate paper, and implement ART in the code base compare results with and without ART
@@ -43,11 +44,10 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 *  Focus on Literature Review
 * Investigate IBM Adversarial Robustness Toolbox
 * Create initial research questions
-* Create Table of content in the Latex document
 * First selection of papers
 * Explain what is IBM ART and how can be useful for us 
-* Create the abstract structure in LaTeX doc
-* Post DonkeyCar code of working car to GitHub
+* Post updated DonkeyCar code of working car to GitHub
+
 <hr>
 
 ## Week 3

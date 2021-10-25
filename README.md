@@ -17,7 +17,7 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 > ## *Safety Analysis of Autonomous Vehicle Systems Software*
 > Master’s Thesis (30 ECTS) [Reference Paper](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2)
 
-# Links
+## Links
 
 * [Thesis Overleaf Online LaTeX Document View Mode](https://www.overleaf.com/read/hvmfscbftgzp)
 * [Report LaTeX IEEE technical report](https://www.overleaf.com/read/wjqmwdnphgqs)

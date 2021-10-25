@@ -155,6 +155,9 @@ guidelines/templates for conducting mapping studies.
 (study identification, data extraction, classification)?
 * Is there any empirical evidence for the defined mapping process?
 * This question is concerned with whether the results of the mapping study are presented. That is, studies focusing on evaluating mapping studies without presenting their results are excluded.
+
+[Images from this reference](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session2dp-v4.pdf)
+
 ![Snow Balling](https://user-images.githubusercontent.com/8085864/138607841-171d605f-69db-488d-b024-98b4c5837e28.png)
 ![Elimination](https://user-images.githubusercontent.com/8085864/138607844-8b4edbe9-47f9-4a8e-a3ce-f28282a01a3d.png)
 <br>

@@ -1,7 +1,7 @@
 # Thesis Backlog
 ## TODO list week-by-week
-### 33 - Total number of weeks
-### 18 - Meetings with the supervisor (estimated)
+#### 33 - Total number of weeks
+#### 18 - Meetings with the supervisor (estimated)
 
 <hr>
 

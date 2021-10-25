@@ -18,8 +18,6 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 > Master’s Thesis (30 ECTS) [Reference Paper](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2)
  <br />
 
- <br />
-
 
 # Links
 
@@ -37,3 +35,7 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 * [What is the DonkeyCar](https://softwareengineering.netlify.app/donkey-car)
 * [Sofware Engineering Blog](https://softwareengineering.netlify.app/)
 * [Motivation](motivation/README.md)
+
+## License
+
+The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).

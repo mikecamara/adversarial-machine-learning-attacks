@@ -16,7 +16,10 @@ Here I will document the work related to the literature review and previous work
 [Attack and Fault Injection in Self-driving Agents
 on the Carla Simulator – Experience Report](https://link.springer.com/content/pdf/10.1007%2F978-3-030-83903-1_14.pdf)
 ```
-This paper was the first reference to the topic and the author uses the IBM Adversarial Tool Box to attack Machine Learning models that steer and drive an autonomous car in a simulation environment, causing the car to increase crashes to other cars and collisions with walls. 
+- This paper was the first reference to the topic
+- The author uses the IBM Adversarial Tool Box to attack Machine Learning models 
+- The ML models are used to steer and drive an autonomous car in a simulation environment
+- The attacks lead the car to increase collisions. 
 ```
 
 

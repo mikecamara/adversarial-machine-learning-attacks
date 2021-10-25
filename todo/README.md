@@ -40,10 +40,9 @@
 - References
 ```
 * <del>Create Table of contents </del> [Here](../table-of-contents/README.md)
+* <del>Ask Maarja Kungla about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm up to date with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023)</del> 🤔
 * Work on the intermediate presentation and technical demo
 * Explain what is IBM ART and how can be useful for us 
-* Ask Maarja Kungla about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm up to date with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is
-located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023) 🤔
 *  Focus on Literature Review
 * Investigate IBM Adversarial Robustness Toolbox
 * Create initial research questions

@@ -57,7 +57,7 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 * What is the norm for your university? At UT, it is normal to interact regularly with your thesis commitee? 
 * Do my examiners need to be told about my research?
 * Find out what the local rules are for citation style?
-* (3/11) Intermediate presentation and technical demo 
+* (3/11) Intermediate presentation, report draft and technical demo in Serminar
 
 <hr>
 

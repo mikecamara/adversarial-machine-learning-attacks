@@ -24,9 +24,9 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 ## Useful links
 
 * [Thesis Overleaf Online LaTeX Document](https://www.overleaf.com/read/hvmfscbftgzp)
-* [Report LaTeX IEEE technical report](https://www.overleaf.com/read/wjqmwdnphgqs)
 * [Gantt Chart](https://sharing.clickup.com/g/h/q5w3e-61/e4eb0ae7475178f)
 * [Important Dates](important-dates/README.md)
+* [LaTeX IEEE technical report](https://www.overleaf.com/read/wjqmwdnphgqs)
 * [TODO List](todo/README.md)
 * [References](references/README.md)
 * [Thesis Plan](thesis-plan/README.md)

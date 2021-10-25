@@ -25,7 +25,7 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 # Links
 
 * [Thesis Overleaf Online LaTeX Document View Mode](https://www.overleaf.com/read/hvmfscbftgzp)
-* [Report LaTeX IEEE technical report format](https://www.overleaf.com/read/wjqmwdnphgqs)
+* [Report LaTeX IEEE technical report](https://www.overleaf.com/read/wjqmwdnphgqs)
 * [Gantt Chart](https://sharing.clickup.com/g/h/q5w3e-61/e4eb0ae7475178f)
 * [Important Dates](important-dates/README.md)
 * [TODO List](todo/README.md)
@@ -35,3 +35,5 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 * [Code](code/README.md)
 * [Thesis Requirements](requirements/README.md)
 * [Supervisor Meeting Logs](supervisor-meetings-logs/README.md)
+* [What is the DonkeyCar](https://softwareengineering.netlify.app/donkey-car)
+* [Sofware Engineering Blog](https://softwareengineering.netlify.app/)

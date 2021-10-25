@@ -14,13 +14,7 @@
 * <del>Duplicate LaTeX document from Overleaf in GitHub for Backup and version control</del> [Here](../latex/README.md)
 * <del>Define research methodology</del> [Here](../thesis-plan/README.md)
 * <del>Read material reference from MTAT.03.270 Seminar on Enterprise Software</del> [Here](../thesis-plan/README.md)
-* Investigate IBM Adversarial Robustness Toolbox
-* Create initial research questions
-* Create Table of content in the Latex document
-* First selection of papers
-* Explain what is IBM ART and how can be useful for us 
-* Create the abstract structure in LaTeX doc
-* Post DonkeyCar code of working car to GitHub
+
 <hr>
 
 ## Week 2
@@ -47,6 +41,13 @@
 * Ask Maarja Kungla and Dietmar about the fact that my supervisor is not in the Dist. Seminar and warn the fact that I'm update with all deliverables because I read [here in page 4](https://courses.cs.ut.ee/MTAT.03.270/2021_spring/uploads/Main/Session1dp-v2corr.pdf) that in the fall seminar should be taken in the Chair where the master thesis supervisor is
 located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Engineering’ (LTAT.05.023)
 *  Focus on Literature Review
+* Investigate IBM Adversarial Robustness Toolbox
+* Create initial research questions
+* Create Table of content in the Latex document
+* First selection of papers
+* Explain what is IBM ART and how can be useful for us 
+* Create the abstract structure in LaTeX doc
+* Post DonkeyCar code of working car to GitHub
 <hr>
 
 ## Week 3
@@ -58,6 +59,7 @@ located; if it is the Chair of SE & IS, take ‘Research Seminar in Software Eng
 * Do my examiners need to be told about my research?
 * Find out what the local rules are for citation style?
 * (3/11) Intermediate presentation, report draft and technical demo in Serminar
+* Write Report Distributed System Seminar
 
 <hr>
 

@@ -8,6 +8,13 @@
 <hr>
 <br>
 
+# Meeting 4
+### *2/November/2021 - 4 pm - via Skype*
+<br>
+
+<hr>
+<br>
+
 # Meeting 3
 ### *19/October/2021 - 1 pm (duration 45 minutes) - via Skype*
 <br>

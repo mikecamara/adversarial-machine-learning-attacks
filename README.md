@@ -4,7 +4,8 @@ This repository is a living document to organise the work around my thesis for a
 
 This document was created to help me deliver a high-quality master thesis on time.
 
-* Target: Defence in June 2022 🎯
+## Target 🎯
+**Defence in June 2022** 
 
 The experiment consists of applying the [IBM Adversarial Robustness Toolbox (ART)](https://adversarial-robustness-toolbox.org/) to provide state-of-the-art tools to evaluate, defend, and verify the Machine Learning models used to drive a [real-world autonomous car](https://softwareengineering.netlify.app/donkey-car/).
 
@@ -21,7 +22,7 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 >### *Dietmar Alfred Paul Kurt Pfahl, PhD*
  <br />
 
-
+    
 # Links
 
 * [Thesis Overleaf Online LaTeX Document View Mode](https://www.overleaf.com/read/hvmfscbftgzp)
@@ -37,3 +38,4 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 * [Supervisor Meeting Logs](supervisor-meetings-logs/README.md)
 * [What is the DonkeyCar](https://softwareengineering.netlify.app/donkey-car)
 * [Sofware Engineering Blog](https://softwareengineering.netlify.app/)
+* [Motivation](motivation/README.md)

@@ -11,7 +11,7 @@
 
 ## 3/11/2021
 * Intermediate Presentation for Seminar, techinal demo and draft final report
-* Mid term presentation ADL and report peer feedback is due to deliver.
+* Mid term presentation ADL and report peer feedback is due to deliver. 
 
 ## 24/11/2021 
 * Last day to share the LaTeX reports between the reviewers (5 pages)

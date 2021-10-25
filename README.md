@@ -11,14 +11,11 @@ The experiment consists of applying the [IBM Adversarial Robustness Toolbox (ART
 
 Using Adversarial Machine Learning Attacks against cars [has been done](https://link.springer.com/chapter/10.1007%2F978-3-030-83903-1_14) in a simulation environment. However, to our knowledge, such threats [have not been attempted](./references/README.md) against real-world vehicles before.
 
-<br>
-
 ## Thesis Topic
 
 > ## *Safety Analysis of Autonomous Vehicle Systems Software*
 > Master’s Thesis (30 ECTS) [Reference Paper](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2)
 
-<br>
 <hr>
 
 ## Useful links

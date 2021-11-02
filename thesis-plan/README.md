@@ -61,12 +61,12 @@ The typical structure of a thesis consists of the following components:
 <br>
 <hr>
 
-# Type of RQ
+# RQs
 * Research Question -> Exploratory Question -> Descriptive Comparative Question
 
->* What is an effective way to evaluate, defend, and verify Machine Learning models?
+>* What is an effective way to evaluate, defend, and verify Autonomous Vehicles Machine Learning models?
 
->* What is an effective way to defend Machine Learning applications against adversarial threats?
+>* What is an effective way to defend DNN Machine Learning applications against adversarial threats?
 
 <br>
 <hr>
@@ -142,8 +142,8 @@ Dedicated SE sources:
 * Studies present the research method and result of a systematic
 mapping study.
 * Studies are in the field of software engineering.
-* Studies were published online in the time frame 2004 (first systematic review and evidence-based software engineering guidelines were
-published) to 2012 (the study was conducted during 2013).
+* Studies were published online in the time frame 2018 (first systematic review and evidence-based software engineering guidelines were
+published) to 2021.
 
 ## Exclusion Criteria:
 * Studies presenting summaries of conferences/editorials or
@@ -274,7 +274,7 @@ We describe a series of experiments on each of the four major types of attack an
 We expect this new approach to contribute to the safety of the automobile industries and reduce the number of collisions caused by attacks, and hence making AI systems more secure.
 
 #### TODO
-#### * Convert this argument into a chapter outline
+#### * <del>Convert this argument into a chapter outline
 #### * At least one chapter per sentence
 #### * maybe more than one for some sentences
 #### * Start a folder for each chapter
@@ -308,7 +308,7 @@ We expect this new approach to contribute to the safety of the automobile indust
 
 # Abstract
 ## BACKGROUND
-A software engineering systematic map is a defined method to build a classification scheme and structure a software engineering field of interest. The analysis of results focuses on frequencies of publications for categories within the scheme. Thereby, the coverage of the research field can be determined. Different facets of the scheme can also be combined to answer more specific research questions.
+Deep neural networks (DNNs) have achieved great success in safely driving vehicles autonomously. However, recent studies have exposed their vunerability agains adversarial attacks. 
 
 ## OBJECTIVE
 We describe how to conduct a systematic mapping study in software engineering and provide guidelines. We also compare systematic maps and systematic reviews to clarify how to choose between them. This comparison leads to a set of guidelines for systematic maps.

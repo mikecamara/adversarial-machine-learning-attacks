@@ -7,7 +7,7 @@
 * Report in the form of a blogpost draft 
 
 ## 1/11/2021
-* Submit thesis title and supervisor name 
+* Submit thesis title and supervisor name [here](https://www.cs.ut.ee/en/studying/guidelines-regulations) 
 
 ## 3/11/2021
 * Intermediate Presentation for Seminar, technical demo and draft final report

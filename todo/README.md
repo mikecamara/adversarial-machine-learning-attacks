@@ -73,7 +73,6 @@
 ## Week 4 
 ### 8/November/2021 to 14/November/2021
 
-* Submit thesis title and supervisor (1/11)
 <hr>
 
 ## Week 5 

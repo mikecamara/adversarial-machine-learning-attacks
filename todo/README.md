@@ -2,7 +2,7 @@
 ## **TODO** list week-by-week
 #### **Project total number of weeks** - 33 
 #### [**Meetings with the supervisor**](../supervisor-meetings-logs/README.md) (estimated) - 18
-#### [**Current week** - 2](#week-2)
+#### [**Current week** - 3](#week-3)
 ##### * <del>Strikethrough</del> text means that the task is done
 <hr>
 

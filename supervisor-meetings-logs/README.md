@@ -10,8 +10,59 @@
 <br>
 
 # Meeting 4
-### *2/November/2021 - 4 pm - via Skype*
+### *2/November/2021 - 4 pm - via Meet* (duration 30 minutes)
 <br>
+
+* Supervisor mentioned that he had reviewed the submitted documents.
+
+* The initial feedback was positive. 
+
+* Mentioned that there was a crucial document missing - the Data Extraction Table.
+
+* Recommended looking into first seminar material the slides of data extraction
+
+* Each research question should have a data extraction table that includes what items  I should look for to analyse the selected paper.
+
+* For instance look for papers on how to test deep learning, network test techniques.
+
+* If paper excluded say something why 
+
+* Create one column for test methods, if they are the same as other papers.
+
+* What are the different methods they have used
+
+* Have column in data extraction table - table summary, which is one table for each paper trace back to what I found.
+
+* Synthesis info, duplicate cells, update content. 
+
+* If I don't find anything tells as well that the paper didn't mention any test methods.
+
+* End table result for each RQ found papers
+
+* This gives traceability to the outcome
+
+* Check adversarial tests of deep learning papers
+
+* Present summary
+
+* appendix table 
+
+* While reading paper might have to add columns to table, for instance, tools that they use to extract what I want to know
+
+* Each RQ guides what info I'm looking to find
+
+* Example counting phenomena - Technology A yes or no used out of 15 7 didn't use. Test technique used, etc.
+
+* We agreed that for our next meeting I would request the data and time on-demand as I needed. 
+
+* We agreed that if necessary we could meet every second week. However, I would remember the supervisor of our meetings one week in advance and one day before the meeting and quickly summary what we will be discussing. 
+
+* A possible date would be on the 16/November/2021 at 4 pm. This means I would remind the professor on the 9th and 15th of November with a short email. 
+
+* It seems like Skype is a good tool to communicate and we could use it for our meetings going forward. I also should mention this in the first email on the 9th.
+
+* These emails serve as a weekly report to the supervisor, so I must format it nicely, encouraging easy access to the information. 
+
 
 <hr>
 <br>

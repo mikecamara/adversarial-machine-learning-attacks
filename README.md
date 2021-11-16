@@ -21,6 +21,11 @@ Using Adversarial Machine Learning Attacks against cars [has been done](https://
 ## Report Presentation
 * [Thesis plan and research methods for the seminar presentation](https://docs.google.com/presentation/d/1eGjAPwA87brtyPDXe-DVob6hmuS6izjgzG4dkWjdEPc/edit?usp=sharing)
 
+
+## Data Extraction
+* [Data Search - Data sources + Search Strings](https://docs.google.com/document/d/15HRb4G1OOdxRsDtwCUvxz-6m5jzmNHOb-opNeYT1roY/edit?usp=sharing)
+* [Data Extraction Table](https://docs.google.com/spreadsheets/d/1hK-wXvBYuIYqfd0BKTh8oYs5C-CKyelPAqyBtdPVJfQ/edit?usp=sharing)
+
 ## Useful links
 
 * [Thesis Overleaf Online LaTeX Document](https://www.overleaf.com/read/hvmfscbftgzp)

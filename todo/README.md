@@ -1,7 +1,7 @@
 # Thesis Project Backlog
 ## **TODO** list week-by-week
 #### **Project total number of weeks** - 33 (28 weeks left)
-#### **Preliminar Defence** - Week 26 ()
+#### **Preliminar Defence** - Week 26 (17/Abril/2022)
 #### [**Meetings with the supervisor**](../supervisor-meetings-logs/README.md) (estimated) - 18
 #### [**Current week** - 5](#week-5)
 ##### * <del>Strikethrough</del> text means that the task is done

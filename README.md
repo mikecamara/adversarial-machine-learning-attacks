@@ -1,8 +1,8 @@
 # Safety Analysis of Autonomous Vehicle Systems Software
 
 ## Links for the use of the supervisor
-* [Data Extraction Table](https://docs.google.com/spreadsheets/d/1hK-wXvBYuIYqfd0BKTh8oYs5C-CKyelPAqyBtdPVJfQ/edit?usp=sharing)
-* [Thesis LaTeX Document](https://www.overleaf.com/read/hvmfscbftgzp)
+* [Data Extraction Table - latest update 28/Nov/2021](https://docs.google.com/spreadsheets/d/1hK-wXvBYuIYqfd0BKTh8oYs5C-CKyelPAqyBtdPVJfQ/edit?usp=sharing)
+* [Thesis LaTeX Document - nothing to see here but a LaTeX template](https://www.overleaf.com/read/hvmfscbftgzp)
 * [Supervisor Meeting Logs](supervisor-meetings-logs/README.md)
 * [Results](results/README.md)
 * [Code](code/README.md)

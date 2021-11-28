@@ -14,8 +14,8 @@ Using adversarial machine learning attacks against cars to evaluate the safety o
 <hr>
 
 ## Other links
-* [Gantt Chart](https://sharing.clickup.com/g/h/q5w3e-61/e4eb0ae7475178f)
-* [Guidelines and regulations - Defence in June 2022](https://www.cs.ut.ee/en/studying/guidelines-regulations)
+* [Gantt Chart Project Time Distribution](https://sharing.clickup.com/g/h/q5w3e-61/e4eb0ae7475178f)
+* [Thesis guidelines and regulations - Defence in June 2022](https://www.cs.ut.ee/en/studying/guidelines-regulations)
 * [Master’s Thesis (30 ECTS) Reference Paper](https://sep.cs.ut.ee/Main/StudentProjects2021#Pfahl2)
 * [Thesis plan and research methods for the seminar presentation](https://docs.google.com/presentation/d/1eGjAPwA87brtyPDXe-DVob6hmuS6izjgzG4dkWjdEPc/edit?usp=sharing)
 * [Data Search - Data sources + Search Strings](https://docs.google.com/document/d/15HRb4G1OOdxRsDtwCUvxz-6m5jzmNHOb-opNeYT1roY/edit?usp=sharing)

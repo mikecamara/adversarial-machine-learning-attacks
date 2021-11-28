@@ -81,10 +81,15 @@
 * In the background section explains the background of the car, and define safety. 
 
 * The methodology sections, which is long and important, describes the main 4 sections: 
+
 1) Find a method with a scaled car that supports the creation of DNN models
 2) Creation of baseline - how to capture safety and profile hits
 3) Explain how to apply the methods to improve the car safety
 4) How to evaluate improvement, run the experiment again with safety profile and compare safety (results).
+
+* Supervisor clarified the local rules about citation. There is no one style that is required, most citation styles are accepted as long as there is consistency across the paper. 
+
+* Supervisor already added the dates of 7/Dec and 4/Jan to his calendar at the same time. I must send the updated agenda by the previous day of the meeting.
 
 <hr>
 <br>

@@ -26,11 +26,11 @@
 - Confirm the local rules for citation style
 - Plan next meetings (maybe 7/Dec and 4/Jan as the Christmas holiday begins on the 20th/Dec)
 
-* Supervisor mentioned that he had reviewed the data extraction table available in the documents. However, there was nothing to give feedback on because table was empty. 
+* Supervisor mentioned that he had reviewed the data extraction table available in the documents. However, there was nothing to give feedback on because the table was empty. 
 
-* Supervisor mentioned how he had trouble to find the links and the files, so I should send them simply attached to every email I send so he doesn't waist time looking for them.
+* Supervisor mentioned how he had trouble finding the links and the files, so I should send them simply attached to every email I send so he doesn't waste time looking for them.
 
-* Supervisor assisted reviewing and reformulating the research questions displayed in the table. The research questions were not specific enough, there were gramathical error, such as using capital letters unecessarily. 
+* Supervisor assisted in reviewing and reformulating the research questions displayed in the table. The research questions were not specific enough, there was a grammatical error, such as using capital letters unnecessarily. 
 
 * I send the supervisor a link to the updated research questions file, but the inconsistency with the files was unacceptable and led to confusion. 
 
@@ -38,29 +38,29 @@
 
 * We need to simplify the access to the files and keep them consistent.
 
-* Supervisor explained how he was confused in regards the consistensy of the project, he mentioned that there was not enough clarity in regards the goals of the project, the study itself.
+* Supervisor explained how he was confused in regards to the consistency of the project, he mentioned that there was not enough clarity in regards to the goals of the project, the study itself.
 
-* Supervisor clarified that the systematic mapping study of the seminar is only used to find the tools that answer that research questions, it is a part of the thesis. However, the master thesis should have their own methodology which is crafted to answer the research questions. 
+* Supervisor clarified that the systematic mapping study of the seminar is only used to find the tools that answer that research questions, it is a part of the thesis. However, the master thesis should have its methodology which is crafted to answer the research questions. 
 
-* We must provide the definition of safety. .What does safety means in the context of scaled self-driving cars. 
+* We must define safety. What does safety mean in the context of scaled self-driving cars? 
 
-* We must define a baseline which will provide the metrics for defining safety. 
+* We must define a baseline that will provide the metrics for defining safety. 
 
 * The supervisor mentioned how he had a look at the ART tool, but it seemed to be a tool to analyse the security of ML, not safety. 
 
-* Security is different than safety, security could be related to the system authorization, the access, identification, but safety is related to the loss of proprierty, or lives, or endangerous human, so it is unsafe. 
+* Security is different from safety, security could be related to the system authorization, access, identification, but safety is related to the loss of property, or lives, or endangers humans, so it is unsafe. 
 
-* Supervisor explained how one could argue that fauls in security could lead to unsafety. So we should look at ART and check which security features are relevant to safety. 
+* Supervisor explained how one could argue that faults in security could lead to unsafety. So we should look at ART and check which security features are relevant to safety. 
 
-* Supervisor explained about the local protocol to deliver and defend a thesis. The only person that I need to interact until the day of the defence is my supervisor. The committee is already defined but no interaction with them is needed. 
+* Supervisor explained the local protocol to deliver and defend a thesis. The only person that I need to interact with until the day of the defence is my supervisor. The committee is already defined but no interaction with them is needed. 
 
-* Supervisor explained how the methodoly of the project should be created surronding the object of safety analyses.
+* Supervisor explained how the methodology of the project should be created surrounding the object of safety analyses.
 
 * What is safe and what is not safe.
 
-* Reliability related to how often if happens
+* Reliability related to how often it happens
 
-* Run the circuit for 1 minute and have ten hits is not safe, we need to define safety and not safe, only then we can measure.
+* Run the circuit for 1 minute and having ten hits is not safe, we need to define safety and not safe, only then we can measure.
 
 * Define where it starts, the certain types of hit, side or front, for instance, then create a time distribution table.
 
@@ -70,27 +70,21 @@
 
 * Change speed of the car, compare differences. 
 
-* Describe how the method consists of record the behaviour and safety of the vehicle without safety traning.
+* Describe how the method consists of recording the behaviour and safety of the vehicle without safety training.
 
 * What can we use to make it safer.
 
 * Compare different performance and baseline. 
 
-* The overal method there is nothing special and is quite naive.
+* The overall method there is nothing special and is quite naive.
 
-* In the background section explain the background of the car, and define safety. 
+* In the background section explains the background of the car, and define safety. 
 
 * The methodology sections, which is long and important, describes the main 4 sections: 
-- 1) Find method with scaled car that support the creation of DNN models
-- 2) Creation of baseline - how capture safety and profile hits
-- 3) Explain how apply the methods to improve the car safety
-- 4) How to evaluate improvement, run experiment again with safety profile and compare safety (results).
-
-
-
-
-<hr>
-<br>
+1) Find a method with a scaled car that supports the creation of DNN models
+2) Creation of baseline - how to capture safety and profile hits
+3) Explain how to apply the methods to improve the car safety
+4) How to evaluate improvement, run the experiment again with safety profile and compare safety (results).
 
 <hr>
 <br>

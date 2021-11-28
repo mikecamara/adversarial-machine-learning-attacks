@@ -82,10 +82,12 @@
 
 * The methodology sections, which is long and important, describes the main 4 sections: 
 
-1) Find a method with a scaled car that supports the creation of DNN models
-2) Creation of baseline - how to capture safety and profile hits
-3) Explain how to apply the methods to improve the car safety
-4) How to evaluate improvement, run the experiment again with safety profile and compare safety (results).
+1) Find a method with a scaled car that supports the creation of DNN models - Create the circuit and find methods that support training DNN models
+2) Creation of baseline - how to capture and define safety and profile hits 
+3) Explain how to apply the methods to improve car safety - find methods that disturb safety. Explain how to apply those methods. Explain how to improve the car model.
+4) How to evaluate improvement, run the experiment again with safety profile and compare safety (results). 
+
+* Overall the study is about safety and not security
 
 * Supervisor clarified the local rules about citation. There is no one style that is required, most citation styles are accepted as long as there is consistency across the paper. 
 

@@ -19,12 +19,12 @@
 
 * Agenda
 
-- Sync in with Dietmar 
-- Data Extraction Table
-- Seminar report
-- Questions about choosing examiners and the norms for interaction with the thesis committee
-- Confirm the local rules for citation style
-- Plan next meetings (maybe 7/Dec and 4/Jan as the Christmas holiday begins on the 20th/Dec)
+1) Sync in with Dietmar 
+2) Data Extraction Table
+3) Seminar report
+4) Questions about choosing examiners and the norms for interaction with the thesis committee
+5) Confirm the local rules for citation style
+6) Plan next meetings (maybe 7/Dec and 4/Jan as the Christmas holiday begins on the 20th/Dec)
 
 * Supervisor mentioned that he had reviewed the data extraction table available in the documents. However, there was nothing to give feedback on because the table was empty. 
 

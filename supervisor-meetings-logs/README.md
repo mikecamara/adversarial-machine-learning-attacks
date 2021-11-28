@@ -19,7 +19,7 @@
 
 * Agenda
 
-1) Sync in with Dietmar 
+1) Sync in with the supervisor 
 2) Data Extraction Table
 3) Seminar report
 4) Questions about choosing examiners and the norms for interaction with the thesis committee

@@ -6,6 +6,7 @@
 * [Meeting 3 - 19/October/2021 - agreed on the thesis topic](#meeting-3)
 * [Meeting 4 - 2/November/2021](#meeting-4)
 * [Meeting 5 - 23/November/2021](#meeting-5)
+* [Meeting 6 - 7/December/2021](#meeting-6)
 
 <hr>
 <br>

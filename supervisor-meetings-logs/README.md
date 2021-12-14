@@ -7,6 +7,159 @@
 * [Meeting 4 - 2/November/2021](#meeting-4)
 * [Meeting 5 - 23/November/2021](#meeting-5)
 
+<hr>
+<br>
+
+# Meeting 6
+### *7/December/2021 - from 4:00 pm to 4:57 pm - via Skype* (duration 57 minutes)
+<br>
+
+* We started the meeting, supervisor shared his screen and opened the agenda
+
+* Agenda
+
+- Data Extraction Table 
+- Demo experiment for baseline creation (autonomous driving for 14 laps and 2 laps)
+- Simplified access to thesis document links (link)
+- Enrolment to Master's Thesis course in spring 2022 is it LTAT.00.002 or other?
+- Confirm next meeting on the 5/Jan
+- Confirm methodology below:
+
+First Methodology I have suggested:
+• Research questions.
+• Data search.
+• Study selection and quality assessment.
+• Data extraction.
+• Analysis and classification to find methods for the creation of a deep neural network (DNN) for driving the toy car
+• Creation of a baseline for the DNN model. (I'm currently here)
+• Define safety
+• Implement adversarial attacks
+• Implement defences methods.
+• Evaluate and compare the results to validate the safety of the DNN model.
+
+* Supervisor mentioned that he had a look at the extraction table and also at the videos.
+
+* Supervisor started with the "easiest" topic to cover which was the enrolment to master thesis course during spring. The supervisor clarified that I don't need to take any actions, or enrol on any course, the enrolment is all done via supervisor and admin, I would be awarded the 30 ECTS after defending the thesis. 
+
+* Supervisor addressed the Data Extraction Table topic, and was interesting to find out more about the results of my mapping study, and asked if the results summarized in a document, and I explained how the results of the mapping study were available at the Distributed System Seminar. 
+
+* Supervisor opened the document, and then we discussed the answers for my RQs, supervisor explained that we should now focus on polishing the RQ for the thesis and work on a well-defined thesis goal, he then asked me to explain what was my research goal. 
+
+* I answer defining the research goal in simple words: 
+
+"I would like to first learn what's the best way to train a car to drive autonomously (RQ), with that done I could define a baseline and define safety, after that I would apply selected adversarial machine learning attacks that would compromise and deteriorate the car performance. After that, I would then implement selected defences. In the end, I would compare and evaluate the performance of the car in these three different scenarios. Trained but no attacks, with attacks, with attacks and defences."
+
+* After understanding my purpose supervisor help me to create the appropriate methodology for such a study, thus the notes below reflect the brainstorm with the supervisor. 
+
+* The goal is to demonstrate how adversarial machine learning can be used to improve the deep learning component in autonomous driving vehicles.
+
+* I must research the field to pick methods of adversarial attacks to improve a standard normally trained baseline. 
+
+* The study is a **Design Science Master Thesis**, which shows my capacity to implement and handle modern technological concepts in a toy car and report it as an engineering master thesis, therefore, deserve to receive the master diploma. However, this is not research. 
+
+* The report will demonstrate how using specific adversarial techniques we can make the vehicle safer. 
+
+* In the introduction find a way to make the title clear and understandable and define a method. 
+
+* Define method:
+
+* 0 step - Literature review - how to train a car, analyse overview of existing metrics to evaluate performance. And select an adversarial attack, pick one and check metrics. 
+
+- Build baseline car
+- Check baseline
+- Improve car baseline
+- Check to improve baseline
+
+The Design Science is composed of for steps (design, check, improve, check)
+
+Step 0 RQ1
+To analyse and justify the methods selected as an answer to RQ1 and to 
+
+Step 1 
+results mapping study create the baseline, also how to evaluate
+
+results describe how trained cars look like R1 and R2
+
+Step 2 RQ3
+Analyse list of attacks to evaluate pick 1 or 2 and user
+
+Last step another check and hopefully the car will be better
+
+While writing the thesis making a clickable link to a video would be nice
+
+How to train this driving model
+
+How to describe the toy car
+
+what do I do to train model?
+
+Describe if you would like to watch the results click on the link.
+
+The project has to be crystal clear
+
+Train baseline
+
+add special train
+
+watch differences and compare, very clearly describing everything.
+
+All the metrics have to be very precise, the committee will be asking why I used this or that. 
+
+Since the 14 laps video proved that there is little or almost nothing to improve in that model, then we should add some obstacles in the circuit so is more difficult and there is more data to compare in the baseline. Then use attacks and compare again.
+
+The track is well designed and relatively simple, add signs, check suddenly hitting dings. I have to define what I will be using to check the performance. 
+
+Hit wall less often.
+
+The supervisor mentioned a study from Cambridge, or oxford in which they add a sticker to the stop sign and misclassified it, so the classification was easily fooled.
+
+But it was not perceivable to humans. 
+
+We could transfer this idea to a toy stop sign. Train the car to signs, and with attacks make it evade with little unperceivable manipulation. But detect with adversarial defence training. 
+
+The study has to be easily replicable and works well-ish. 
+
+The baseline manipulates slightly and doesn't detect the signs.
+
+What would happen if add a mirror to a wall, or change the colour, manipulate a little bit and see if the baseline changes. 
+
+Small change, confuses the model. After the defence training, it should perform normally. 
+
+The disturbance is too small, but not for the car model. Find a sweet spot where I can fix it and the disturbance is not too big. Argue that humans wouldn't be confused with disturbance but the model is. 
+
+Maybe if change the location of the disturbance in the circuit is not so difficult anymore. Find out the perfect setup.
+
+This might be useful later in the competition. 
+
+Make sure to scientifically show fair comparison and clearly define the situation and baseline. 
+
+3 scenarios
+
+1 - Baseline track without confusion
+
+2 - Small disturbance baseline get confused
+
+3 - Bigger disturbance get more confused
+
+4) better training car not confused with small disturbance but still confused with bigger disturbance
+
+Document all different elements and methods
+
+
+Step zero is the theory over deep learning models, adversarial attacks and metrics to define safety.
+
+Design science steps:
+
+1 - Baseline
+2 - Evaluate baseline training and evaluate baseline training disturbed
+3 - New better training with adversarial attacks
+4 - baseline disturbed will have a better car performance
+
+* Next meeting is 5th January a 4 pm to 5 pm. 
+
+* I should create an event and invite the supervisor. 
+
+* Supervisor requested to if possible send the agenda email earlier than only a few hours the meeting.
 
 <hr>
 <br>

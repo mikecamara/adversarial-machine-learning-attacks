@@ -7,6 +7,60 @@
 * [Meeting 4 - 2/November/2021](#meeting-4)
 * [Meeting 5 - 23/November/2021](#meeting-5)
 * [Meeting 6 - 7/December/2021](#meeting-6)
+* [Meeting 7 - 5/January/2022](#meeting-7)
+
+
+<hr>
+<br>
+
+# Meeting 7
+### *5/January/2022 - from 4:00 pm to 4:57 pm - via Skype* (duration 57 minutes)
+<br>
+
+* Agenda
+
+- First draft version of the document 
+- Demo video of the progress 
+- Next meetings plan below
+
+Plan
+
+- Abstract, Table of Contents, Introduction (5/Jan - Today)
+- Background and Methodology (18/Jan)
+- Implementation (1/Feb)
+- Evaluation (15/Feb)
+- Conclusion and Results (1/Mar)
+
+* Supervisor mentioned that the structure of the doc is okay
+* Goal had some comments to make later but no big deal, small
+* The supervisor could not understand the video
+* What was missing is to show some cases with traditional training but situations where the car did not perform so well
+* create a comparison with the baseline
+* Next stage change lights and have issues model fails
+* what happens if cover stop sign by half
+* ideally the special training will overcome the issue with the light difference
+* could be light, a color in the wall
+* I have to have clarity about of the control the car, the pre-trained components, an algorithm for object detection, steering, and throttle
+* change something in the situation that the model stops being smart, list them, also mention a situation where it is not so nice
+* Obstacles means they are moving, not static such as the ones I use; in my case is just an extension for the track, so keep it out of my thesis, not at this point
+* forget about traffic lights and stop signs and limit the scope to the lanes
+* check if coco mobile net was trained with adversarial attacks
+* add IMU Background on how it works
+* How car perform with path attacks, remove lane, add pepper to the lane, dimmer light
+* training car in different lights becomes an endless economic questions
+* I might be proposing a shortcut
+* improve algorithm with adversarial attack
+* simplify experiment
+* direction of steering concerning the lights
+* document all that very carefully
+* document how many laps the model was trained
+* steering vs. light
+* good light vs. adv attack
+* if it does not help, disappointment, discussion, speculate why not helping, this is okay too.
+* people use adv attack, limitation literature, and save thesis project.
+* IN the background, explain the functions I could have used but did not so to do not mix subjects.
+* don not use IMU, so you can focus solely on the light
+
 
 <hr>
 <br>

@@ -2,6 +2,7 @@
 
 ## Links for the use of the supervisor
 * [Data Extraction Table](https://docs.google.com/spreadsheets/d/1hK-wXvBYuIYqfd0BKTh8oYs5C-CKyelPAqyBtdPVJfQ/edit?usp=sharing)
+* [Thesis PDF Document](PDF/Camara_Software_Engineering_2022.pdf)
 * [Thesis LaTeX Document](https://www.overleaf.com/read/hvmfscbftgzp)
 * [Supervisor Meeting Logs](supervisor-meetings-logs/README.md)
 * [Results](results/README.md)

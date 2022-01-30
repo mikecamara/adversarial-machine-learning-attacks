@@ -8,10 +8,46 @@
 * [Meeting 5 - 23/November/2021](#meeting-5)
 * [Meeting 6 - 7/December/2021](#meeting-6)
 * [Meeting 7 - 5/January/2022](#meeting-7)
-
+* [Meeting 8 - 18/January/2022](#meeting-8)
 
 <hr>
 <br>
+
+# Meeting 8
+### *18/January/2022 - from 4:00 pm to 17:41 pm - via Skype* (duration approx. 1 hour and 40 minutes)
+<br>
+
+* Agenda
+
+- Document includes updated Abstract, Introduction, and Related Work sections (link)[https://github.com/mikecamara/adversarial-machine-learning-attacks/blob/main/PDF/Camara_Software_Engineering_2022.pdf]
+- New demo video of the progress with the baseline experiment (link)[https://youtu.be/uxeazjQ9aNI]
+- Experiment is not successful so far - after a staggering 18 hours of training, the model trained with adversarial images performed very poorly. I'm now trying to identify possible causes for the failure.
+
+Plan
+
+- Related Work section (18/Jan)
+- Methodology and Implementation (1/Feb)
+- Evaluation (15/Feb)
+- Conclusion and Results (1/Mar)
+
+* Supervisor background is fine. However, adding more info is appropriate. 
+* Supervisor mentioned the importance of discussing the methodology.
+* Need to define the two different light scenarios precisely, perhaps call it A and B.
+* Explain how many pictures are used per round define the number of laps used. 
+* Create a baseline using a standard approach.
+* Be precise with training data set and define what exactly will be improved.
+* Explain what data is being collected while driving.
+* We need to expose the limitations of the technique earlier.
+* Need to investigate the limitations of the FGSM, opportunities, and challenges, and justify the use in the background section.
+* I explained how the experiment was currently failing. The supervisor found it suspicious and speculated about possible issue diagnosing techniques, possible causes, and solutions.
+* Supervisor explained how a failed experiment might not be worthy of a master's degree.
+* If failure becomes inevitable, then a plausible explanation must be created to address the question of why it didn't work. The failure must be described in detail.
+* To seek advice from an expert could help find technical mistakes. 
+* A reduction in the test set could make it easier to pinpoint possible mistakes. 
+
+<hr>
+<br>
+
 
 # Meeting 7
 ### *5/January/2022 - from 4:00 pm to 4:57 pm - via Skype* (duration 57 minutes)

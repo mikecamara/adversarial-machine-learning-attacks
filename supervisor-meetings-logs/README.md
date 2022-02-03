@@ -9,12 +9,112 @@
 * [Meeting 6 - 7/December/2021](#meeting-6)
 * [Meeting 7 - 5/January/2022](#meeting-7)
 * [Meeting 8 - 18/January/2022](#meeting-8)
+* [Meeting 9 - 1/February/2022](#meeting-9)
+
+
+<hr>
+<br>
+
+# Meeting 9
+### *1/February/2022 - from 4:00 pm to 4:53 pm - via Skype* (duration approx. 52 minutes)
+<br>
+
+Agenda
+
+- The draft document now includes Abstract, Introduction, Background and Method sections (link)
+- New demo video of the experiment (link)
+- Next meetings plan below
+
+Plan
+
+- Methodology (1/Feb)
+- Results (15/Feb)
+- Conclusion (1/Mar)
+
+* Supervisor mentioned that he had reviewed both the video and the document and there will be comments on those.
+* Methododoly is not yet clear.
+* The project has different dimentions, or different modules, but not different scenarios as I was suggesting.
+* Need to design the experiment.
+* There are 4 attempts, so need a table to summarise all settings.
+* Instead of scenario we should call it condition, lower light and high light.
+* We have 4 different conditions, we could increase the data and have more conditions but there is no time. 
+* For each model there is a hypotheses
+* Definition of different models and conditions of the experiment.
+
+| Type of Model  | Condition #1 - Low Light (L) | Condition #2 - Low Light Attacked (LA) | Condition #3 - High-Light (H) | Condition #4 - High-Light Attacked (HA) |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Small Dataset (M-TS) - 20 laps | Hypotheses OK | Not good with collisions | Don't know results | Bad |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Large Dataset (M-TL) - 40 laps | Hypotheses OK  | Collide | Bad but better | :---: |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Large Dataset Defense Training(M-TSA) - 20 laps | Hypotheses OK  | Collide | OK | :---: |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Large Dataset Defense Training (M-TLA) - 40 laps | Hypotheses OK  | Collide | OK | :---: |
+
+* After presenting the experiment start with discussin results.
+* Describe te main lessons, such as incresing the data doesn't help.
+* Adversarial attacks helped a lot. 
+* Helped a bit also in LA.
+* But surprisingly is not perfect.
+* This is not easy to explain, however, I have to come up with speculations of whyit didn't work.
+* Perhaps, trainer adversarial attacks has to be done smarter, some ideas could incude using image augmentation techniques such as cropping, flipping and blur. 
+* Need to fill all gaps in my research. There is the need to explain the 4x4 = 16 set up experiment.
+* In method session must formulate speculation about the results.
+* Whereas in the results session simply recall the results. Full stop. 
+* Later, in the discussion sessino, I go back to the results, point out highlights such as the observation that more train no help as I thought.
+* It is disappointing that adv training didn't help more when under attack, explain the limitations and possible solutions such as image augmentation, training in a smarter, more realistit fashion, but time run out. 
+* The background section need more explanation, and much more detail. However, it is not as important as create a complete and more systematic method section. 
+* The next 2 weeks must focus on method and results, but already write some ideas for discussion.
+* Supervisor sent PDF with personal feedback.
+* Need to improve.
+* Explain fig 3 in text, I can't do that, I need to explain in more detail why this image is there and it is doing what. 
+* Compare collisions of th four different modules of experiemtn 4 X 4. 
+* The experiment has two independent parameters - The size of the dataset Small and Large.
+* Adv attack in both yes or not. 
+* It is a classic factorial design which two independent variables combine all possible test ommde in all settings.
+* So, 16, need to describe the method.
+* Results, start model 1, show resuls for 4 different conditions.
+* Model 2, do the same.
+* End summary table highlighting results.
+* In discussion point the numbers of the results.
+* Point out what did work.
+* Mention what I would do if have more time.
+* After these two parts are done, then talk and ask help maybe naveed or other expert about the adversarial attack, as supervisor mentioned not being a expert in the ML field. 
+* It is good to have a sanity check with an expert and check to see if there is not a very obvious mistake in the end. 
+* People are busy, might be hard to find time to do this, if I can't find then supervisor will try to find an expert that can help. 
+* Supervisor can help with the experiment ideas, but cannot judge the quality of trh training, the tech is being trusted to the master student candidate. 
+* I might get a softer or a super hardcore opponent.
+* The full final document must be ready by the end of April.
+* Supervisor mentioned it would be okay until the 3rd of May, after not okay.
+* Need to present the final document for supervisor feedback before end of March so 29/03, also the okay from an expert with sanity check.
+* Need to extend background and follow supervisor's feedback.
+* Need to remake video with final experiment. 
+
+## Results
+
+| Type of Model  | Condition #1 - Low Light (L) | Condition #2 - Low Light Attacked (LA) | Condition #3 - High-Light (H) | Condition #4 - High-Light Attacked (HA) |
+| - | - | - | - | - |
+| Model Training Small Dataset (M-TS) - 20 laps | Hypotheses OK | Not good with collisions | Don't know results | Bad |
+| **Collisions** | **0** | **12** | **5** | **7** |
+| Model Training Large Dataset (M-TL) - 40 laps | Hypotheses OK  | Collide | Bad but better | :---: |
+| **Collisions** | **0** | **10** | **4** | **9** |
+| Model Training Large Dataset Defense Training(M-TSA) - 20 laps | Hypotheses OK  | Collide | OK | :---: |
+| **Collisions** | **0** | **3** | **0** | **5** |
+| Model Training Large Dataset Defense Training (M-TLA) - 40 laps | Hypotheses OK  | Collide | OK | :---: |
+| **Collisions** | **0** | **3** | **0** | **5** |
+
+
+
+<hr>
+<br>
+
+
 
 <hr>
 <br>
 
 # Meeting 8
-### *18/January/2022 - from 4:00 pm to 17:41 pm - via Skype* (duration approx. 1 hour and 40 minutes)
+### *18/January/2022 - from 4:00 pm to 5:41 pm - via Skype* (duration approx. 1 hour and 40 minutes)
 <br>
 
 * Agenda

@@ -10,6 +10,174 @@
 * [Meeting 7 - 5/January/2022](#meeting-7)
 * [Meeting 8 - 18/January/2022](#meeting-8)
 * [Meeting 9 - 1/February/2022](#meeting-9)
+* [Meeting 10 - 15/February/2022](#meeting-10)
+
+<hr>
+<br>
+
+# Meeting 10
+### *15/February/2022 - from 4:00 pm to 5:00 pm - via Skype* (duration approx. 60 minutes)
+<br>
+
+Agenda
+
+- Feedback on the the thesis document latest updates
+- New demo video of the experiment
+- Review next meetings plan below
+
+Plan
+
+- Review Results, Discussion and Conclusion sections and get feedback on the overall document (15/Feb - Tuesday)
+- Review implementation of the previous supervisor's feedback (1/Mar - Tuesday)
+- Review bibliography, references, title and abstract (15/Mar - Tuesday)
+- Deliver thesis document ready for supervisor's final feedback (1/Apr - Friday)
+- Thesis preliminary defense (17/Apr)
+- Opponent submits my thesis review to the board committee and to me (14/May)
+- Submit thesis - Final - (17/ May)
+- Thesis defense (From 31/May to 3/Jun)
+
+The supervisor mentioned that he noticed that I had progressed a lot, and overall, it was exciting and promising. 
+* However, there was still confusion around the video, models, conditions, and thesis in general.
+* There is confusion about identifying and defining the training and the test sections.
+* By the videos, the supervisor noticed two different sets of data: one with 20 laps and another one with 37 laps, and the data includes images. 
+* There was a second set of lights used in the experiment but not used for the training.
+* There are four different settings, and the car runs for two laps.
+* There is the need to clarify the independent and dependent variables of the experiment. 
+* There is the need to clarify what the training consists of and distinguish from the previous stage, "data collection" or "expert demonstration."
+* The training used the built-in CNN.
+* In terms of "tests", there are the tests performed by the car in the circuit and the tests performed to plot the NN against the track performed by the expert.
+* The NN consists of a supervised classifier that classifies ten images per second, thus in every 10th of a second, a new image is classified and decides the steering and throttle.
+* The data collection consists of capturing 20 and 37 laps at a rate of 10 images per second, creating two labels one is throttle from 0 to 1, and second is steering angle -1 to 1.
+* A question arises regarding the max steering angle: Is it 60 or 90 degrees for left and right turn? I need to confirm this.
+* Two sets of data, small and large, are tested in 16 conditions in total.
+* Independent variables include four different models.
+* The dependent variables are the crashes.
+* One condition includes testing the car attacking every image received by the camera while testing the model. This approach is quite brutal because the car was not trained only with the attacked images, but in a mix with normal and attacked, future work could include testing a partial set of attacks.
+* The experiment tests how the data collection plays a role in the performance.
+* four different training processes generated four different models, which will be tested in four different conditions.
+* The video is not explaining enough. It is better to give more context than only showing the model's name. The videos themselves are okay. Just the cards explaining them are not yet. 
+* When sending the submission package, I should also send this video to the opponent and to the committee
+* I need to speculate about where the accidents more happen in the track. Does it coincide with the places where the light was brighter? I need to analyze this.
+* In one of the conditions, all the images used by the model to classify are corrupted. However, only 50% of the images were corrupted during training, and a random selection of images was taken, keeping balance 80%, 20% training, and testing set, respectively.
+* Future work could include different combinations of perturbed images and not. 
+* Need to clarify the different meanings of the four different data sets.
+* The crashes are dependent variables and my quality yardstick.
+* In the method section, describe the independent variables 1) Data Collection, 2) Training, 3) How will evaluate.
+* Keep those headlines in the result section, and the results of data collection are the characterization of the dataset.
+* An example of the phrase is "...after collecting data as described in section 3.3.2, the dataset resulted in the following characteristics."
+* In training, explain how the learning takes place, then training outcomes is the headline in results.
+* 4.3 should be evaluated (without results)
+* Four models tested in 4 different conditions, explain this clearly in the intro of the sections even it becomes repetitive, but it needs a brief intro about what are the models in intro 4.3, 4 models, four conditions, explain the four settings
+* Instead of Testing 1 - Use evaluation of model MTSA
+* Subsection 4.1, 4.3.5 summary, evaluation.
+* Overall, the research is very nice.
+* Increasing training data do not help, point and explain how to interpret the improvement in the discussion.
+* 1) Should have adversarial hope training helped with changing light difference
+* 2) Vision corruption, using it in every image was different from training which had only 50% images corrupted, therefore is expected the model still not perfect.
+* To explain the increase in crashes from 7 to 8 is that vision corruption in all images is very strong, and the addition of high light makes it very different from the dataset because the high light alone was not a problem.
+* Good progress so far!
+* Need to update video labels and update structure document
+
+## The following is the new structure suggested by the supervisor
+
+
+I would distinguish between 'data collection (expert demonstration)', 'training (of the built-in CNN)' and 'testing (of the car)':
+
+data collection:
+- light = {low}
+- laps = {20, 37}
+- 10 images per sec
+- label 1 (throttle): position in [0, full speed]
+- label 2 (steering wheel): angle in [-1, 1] where -1 is 60 degrees left turn and 1 is 60 degrees right turn
+=> 2 datasets (small, large)
+
+variable settings in training:
+- dataset = {small, large}
+- image data augmented by adv attack data = {no, yes}
+=> 4 different settings = {small, small_advA, large, large_advA}
+
+variable settings in testing:
+- laps = {2}
+- light = {low, high}
+- vision = {uncorrupted, corrupted} NB: corrupted vision is created by adversial attack like modifications of the real-time image; NB: in case of corruption, every single image is corrupted
+=> 4 different settings
+
+--
+
+Independent variable: training dataset (4 different values)
+
+Dependent variable: # crashes
+
+
+
+
+| Type of Model  | Condition #1 - Low Light (L) | Condition #2 - Low Light Attacked (LA) | Condition #3 - High-Light (H) | Condition #4 - High-Light Attacked (HA) |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Small Dataset (M-TS) - 20 laps | Hypotheses OK | Not good with collisions | Don't know results | Bad |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Large Dataset (M-TL) - 40 laps | Hypotheses OK  | Collide | Bad but better | :---: |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Large Dataset Defense Training(M-TSA) - 20 laps | Hypotheses OK  | Collide | OK | :---: |
+| :---: | :---: | :---: | :---: | :---: |
+| Model Training Large Dataset Defense Training (M-TLA) - 40 laps | Hypotheses OK  | Collide | OK | :---: |
+
+* After presenting the experiment start with discussin results.
+* Describe te main lessons, such as incresing the data doesn't help.
+* Adversarial attacks helped a lot. 
+* Helped a bit also in LA.
+* But surprisingly is not perfect.
+* This is not easy to explain, however, I have to come up with speculations of whyit didn't work.
+* Perhaps, trainer adversarial attacks has to be done smarter, some ideas could incude using image augmentation techniques such as cropping, flipping and blur. 
+* Need to fill all gaps in my research. There is the need to explain the 4x4 = 16 set up experiment.
+* In method session must formulate speculation about the results.
+* Whereas in the results session simply recall the results. Full stop. 
+* Later, in the discussion sessino, I go back to the results, point out highlights such as the observation that more train no help as I thought.
+* It is disappointing that adv training didn't help more when under attack, explain the limitations and possible solutions such as image augmentation, training in a smarter, more realistit fashion, but time run out. 
+* The background section need more explanation, and much more detail. However, it is not as important as create a complete and more systematic method section. 
+* The next 2 weeks must focus on method and results, but already write some ideas for discussion.
+* Supervisor sent PDF with personal feedback.
+* Need to improve.
+* Explain fig 3 in text, I can't do that, I need to explain in more detail why this image is there and it is doing what. 
+* Compare collisions of th four different modules of experiemtn 4 X 4. 
+* The experiment has two independent parameters - The size of the dataset Small and Large.
+* Adv attack in both yes or not. 
+* It is a classic factorial design which two independent variables combine all possible test ommde in all settings.
+* So, 16, need to describe the method.
+* Results, start model 1, show resuls for 4 different conditions.
+* Model 2, do the same.
+* End summary table highlighting results.
+* In discussion point the numbers of the results.
+* Point out what did work.
+* Mention what I would do if have more time.
+* After these two parts are done, then talk and ask help maybe naveed or other expert about the adversarial attack, as supervisor mentioned not being a expert in the ML field. 
+* It is good to have a sanity check with an expert and check to see if there is not a very obvious mistake in the end. 
+* People are busy, might be hard to find time to do this, if I can't find then supervisor will try to find an expert that can help. 
+* Supervisor can help with the experiment ideas, but cannot judge the quality of trh training, the tech is being trusted to the master student candidate. 
+* I might get a softer or a super hardcore opponent.
+* The full final document must be ready by the end of April.
+* Supervisor mentioned it would be okay until the 3rd of May, after not okay.
+* Need to present the final document for supervisor feedback before end of March so 29/03, also the okay from an expert with sanity check.
+* Need to extend background and follow supervisor's feedback.
+* Need to remake video with final experiment. 
+
+## Results
+
+| Type of Model  | Condition #1 - Low Light (L) | Condition #2 - Low Light Attacked (LA) | Condition #3 - High-Light (H) | Condition #4 - High-Light Attacked (HA) |
+| - | - | - | - | - |
+| Model Training Small Dataset (M-TS) - 20 laps | Hypotheses OK | Not good with collisions | Don't know results | Bad |
+| **Collisions** | **0** | **12** | **5** | **7** |
+| Model Training Large Dataset (M-TL) - 40 laps | Hypotheses OK  | Collide | Bad but better | :---: |
+| **Collisions** | **0** | **10** | **4** | **9** |
+| Model Training Large Dataset Defense Training(M-TSA) - 20 laps | Hypotheses OK  | Collide | OK | :---: |
+| **Collisions** | **0** | **3** | **0** | **5** |
+| Model Training Large Dataset Defense Training (M-TLA) - 40 laps | Hypotheses OK  | Collide | OK | :---: |
+| **Collisions** | **0** | **3** | **0** | **5** |
+
+
+
+<hr>
+<br>
+
 
 
 <hr>

@@ -36,7 +36,11 @@ Plan
 - Submit thesis - Final - (17/ May)
 - Thesis defense (From 31/May to 3/Jun)
 
-The supervisor mentioned that he noticed that I had progressed a lot, and overall, it was exciting and promising. 
+<hr>
+
+Meeting
+
+* The supervisor mentioned that he noticed that I had progressed a lot, and overall, it was exciting and promising. 
 * However, there was still confusion around the video, models, conditions, and thesis in general.
 * There is confusion about identifying and defining the training and the test sections.
 * By the videos, the supervisor noticed two different sets of data: one with 20 laps and another one with 37 laps, and the data includes images. 
@@ -107,72 +111,6 @@ variable settings in testing:
 Independent variable: training dataset (4 different values)
 
 Dependent variable: # crashes
-
-
-
-
-| Type of Model  | Condition #1 - Low Light (L) | Condition #2 - Low Light Attacked (LA) | Condition #3 - High-Light (H) | Condition #4 - High-Light Attacked (HA) |
-| :---: | :---: | :---: | :---: | :---: |
-| Model Training Small Dataset (M-TS) - 20 laps | Hypotheses OK | Not good with collisions | Don't know results | Bad |
-| :---: | :---: | :---: | :---: | :---: |
-| Model Training Large Dataset (M-TL) - 40 laps | Hypotheses OK  | Collide | Bad but better | :---: |
-| :---: | :---: | :---: | :---: | :---: |
-| Model Training Large Dataset Defense Training(M-TSA) - 20 laps | Hypotheses OK  | Collide | OK | :---: |
-| :---: | :---: | :---: | :---: | :---: |
-| Model Training Large Dataset Defense Training (M-TLA) - 40 laps | Hypotheses OK  | Collide | OK | :---: |
-
-* After presenting the experiment start with discussin results.
-* Describe te main lessons, such as incresing the data doesn't help.
-* Adversarial attacks helped a lot. 
-* Helped a bit also in LA.
-* But surprisingly is not perfect.
-* This is not easy to explain, however, I have to come up with speculations of whyit didn't work.
-* Perhaps, trainer adversarial attacks has to be done smarter, some ideas could incude using image augmentation techniques such as cropping, flipping and blur. 
-* Need to fill all gaps in my research. There is the need to explain the 4x4 = 16 set up experiment.
-* In method session must formulate speculation about the results.
-* Whereas in the results session simply recall the results. Full stop. 
-* Later, in the discussion sessino, I go back to the results, point out highlights such as the observation that more train no help as I thought.
-* It is disappointing that adv training didn't help more when under attack, explain the limitations and possible solutions such as image augmentation, training in a smarter, more realistit fashion, but time run out. 
-* The background section need more explanation, and much more detail. However, it is not as important as create a complete and more systematic method section. 
-* The next 2 weeks must focus on method and results, but already write some ideas for discussion.
-* Supervisor sent PDF with personal feedback.
-* Need to improve.
-* Explain fig 3 in text, I can't do that, I need to explain in more detail why this image is there and it is doing what. 
-* Compare collisions of th four different modules of experiemtn 4 X 4. 
-* The experiment has two independent parameters - The size of the dataset Small and Large.
-* Adv attack in both yes or not. 
-* It is a classic factorial design which two independent variables combine all possible test ommde in all settings.
-* So, 16, need to describe the method.
-* Results, start model 1, show resuls for 4 different conditions.
-* Model 2, do the same.
-* End summary table highlighting results.
-* In discussion point the numbers of the results.
-* Point out what did work.
-* Mention what I would do if have more time.
-* After these two parts are done, then talk and ask help maybe naveed or other expert about the adversarial attack, as supervisor mentioned not being a expert in the ML field. 
-* It is good to have a sanity check with an expert and check to see if there is not a very obvious mistake in the end. 
-* People are busy, might be hard to find time to do this, if I can't find then supervisor will try to find an expert that can help. 
-* Supervisor can help with the experiment ideas, but cannot judge the quality of trh training, the tech is being trusted to the master student candidate. 
-* I might get a softer or a super hardcore opponent.
-* The full final document must be ready by the end of April.
-* Supervisor mentioned it would be okay until the 3rd of May, after not okay.
-* Need to present the final document for supervisor feedback before end of March so 29/03, also the okay from an expert with sanity check.
-* Need to extend background and follow supervisor's feedback.
-* Need to remake video with final experiment. 
-
-## Results
-
-| Type of Model  | Condition #1 - Low Light (L) | Condition #2 - Low Light Attacked (LA) | Condition #3 - High-Light (H) | Condition #4 - High-Light Attacked (HA) |
-| - | - | - | - | - |
-| Model Training Small Dataset (M-TS) - 20 laps | Hypotheses OK | Not good with collisions | Don't know results | Bad |
-| **Collisions** | **0** | **12** | **5** | **7** |
-| Model Training Large Dataset (M-TL) - 40 laps | Hypotheses OK  | Collide | Bad but better | :---: |
-| **Collisions** | **0** | **10** | **4** | **9** |
-| Model Training Large Dataset Defense Training(M-TSA) - 20 laps | Hypotheses OK  | Collide | OK | :---: |
-| **Collisions** | **0** | **3** | **0** | **5** |
-| Model Training Large Dataset Defense Training (M-TLA) - 40 laps | Hypotheses OK  | Collide | OK | :---: |
-| **Collisions** | **0** | **3** | **0** | **5** |
-
 
 
 <hr>

@@ -38,7 +38,7 @@ Plan
 
 <hr>
 
-Meeting
+Meeting minutes
 
 * The supervisor mentioned that he noticed that I had progressed a lot, and overall, it was exciting and promising. 
 * However, there was still confusion around the video, models, conditions, and thesis in general.

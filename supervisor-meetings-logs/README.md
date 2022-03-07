@@ -11,6 +11,206 @@
 * [Meeting 8 - 18/January/2022](#meeting-8)
 * [Meeting 9 - 1/February/2022](#meeting-9)
 * [Meeting 10 - 15/February/2022](#meeting-10)
+* [Meeting 11 - 1/March/2022](#meeting-11)
+
+
+<hr>
+<br>
+
+# Meeting 11
+### *1/March/2022 - from 4:00 pm to 6:06 pm - via Skype* (duration approx. 126 minutes)
+<br>
+
+Agenda
+
+- Feedback on the thesis document latest updates (link)
+- New demo video of the experiment (link)
+- Review next meetings plan below
+
+Plan
+
+- Review title, abstract, bibliography, and appendix (15/Mar - Tuesday)
+- Deliver thesis document ready for supervisor's final feedback (1/Apr - Friday)
+- Preliminary thesis defense (12/Apr - Tuesday)
+- Opponent submits my thesis review to the board committee and to me (10/May - Tuesday)
+- Final thesis submission - (17/ May - Tuesday)
+- Thesis defense (From 31/May to 3/Jun)
+
+<hr>
+
+Meeting
+
+- The thesis need revamp write up
+- Video is OK
+- There is a need to make the thesis like the video
+- Including Intro and Background
+- There is nothing right with the bibliography, there is an issue with the reference style in overleaf that needs to be fixed.
+- I should look into examples of good referencing style.
+- Like classic journal
+- Author, year, the name journal or conference number, year, page issue, typical avenue, journal, book
+- It is described somewhere in the University of Tartu guidelines
+- Same goes for blogs that need UTL, name, if there is no name you add one base on the person blog or topic, last access that when you looked at it. 
+- Supervisor mention one particular reference paper I should  look into
+- I need to properly add reference
+- I talk about self driving models, but what is model, is it a CNN model?
+- How does NVIDIA call it? Is it linear, it needs some definition of what is model in self-driving vehicles
+- In the expert demonstration explanation, is nice the picture, but needs standards in how I'm naming it a) clean dataset, b) train c)...
+- Autonomous first CNN
+- Digg deeper difference CNN architecture linear very common related. 
+- Then explain how it needs to be trained, difference standard training and improve how adversarial attack method can be used for training
+- The subsection would be: - training standard cnn, expose weaknesses of this approach, how it could be improved - Next propose different training method
+- Platform Donkey nice intro
+- Self-driving NN on Vehicle
+- Training NN for self driving vehicle
+- General approach
+- 2.3 need to change for training
+- 2.4 scale car platform
+- self driving platform
+- 2.4 platform CNN real car using model describe
+- Method
+- Crashes are evaluation
+- First explanation methods
+- First train the SD NN Model
+- Check how different are the models
+- Different data collection and different training
+- how behave in different condition
+- PROBLEM WORD **TESTING** I'm not using it properly
+- Testing is different, before testing overall steps design methods
+- I should have two high level blocks 1) Developing the  model, 2) Evaluate the models
+- In developing the model we have collect data and training, but aalso different data collections and different training methods.
+- In evaluation block explain the models, explore with the different settings
+- The goal is to answer the RQ
+- Intro overview method
+- RQ1 too similar to RQ2 - Remove RQ2
+- Different models tested in varying settings
+- Goal is to answer the RQ
+- Say how I do develop data collection and organize in different combinations
+- In the evaluation each model measure performance in different settings
+- I should show how car standandard setting works in same conditions it was trained, but when change light conditions the HYPOTHESIS is will fail.
+- Present some solutions
+- 1) More data, expectation train model with standard approach, more training data hope it would become better
+- Nevertheless, interested to see a method in case it not help.
+- Check adversarial trainig method
+- Principle low light should be fine
+- Hope better with hight light condition
+- See smaller set is better
+- Need block about evaluation
+- Go back to research questions
+- What we do, how model can handle unseen 
+- Evaluation focus on light condition
+- Traditional training know now
+- High light
+- Amount data collected
+- All the 8 cases described
+- Also like to see on top of just changing light condition also add noise vision capability
+- During evaluation
+- Check low light
+- Very briefly begining method why we need 4 different methods
+- Need to explain the differences why have 4 models
+- Decide the order to present what
+- Start for answer RQ
+- Evaluation model
+- 1 influence - 2 lights + noise
+- Evaluate in all kind of settings
+- Low light should be fine
+- Exposed low light
+- Model development
+- Model evaluation
+- In order to build model CNN data collection and model training
+- The type of data is input from camera in constant low light at 20 images per seconds.
+- The laps and data set is redundant
+- Need to review laps counts, put original size without cleaning so 40 laps
+- Data collection and labelling, collect by remote control, the light is always low, say light variant
+- Labels are automatically attached to images while driving the laps. It includes steering angle and throttle
+- Table summarize data, it's called data colletion and labeling
+- When I first time I mention light condition as LOW I have to describe what low means, different range of lamps.
+- While training models there was two types of traininig, thus it depends on 2 factors: - data size and data augmentation
+- For each training output name them, small low x and MT
+- Explain how evaluation works
+- How each of the four models is motivated by RQ
+- TO answer RQ first compare behviour wth autgmentat and without
+- And for each of them , the light change but we can on top corrput the vision
+- Remove work testing and all is evaluation of 4 models
+- Now I have to develop 4 models
+- Evaluate them in the exact same settings
+- Models are the independent variables
+- 2 evaluations setting to see if work or not - hypothesis check.
+- Low light corrupt expect could be handled
+- Evaluation is when you RQ answer not in results
+- Respond in model - Discussion - answerto research question
+- Kind of interpretation - result performance of 4 models in 4 different conditions.
+- Start with extreme cases
+- Low light no corruption
+- Expect everything is fine
+- All 4 models should be all good
+- Move to next extreme high light + corrupt vision
+- Training is similar but not replicating the conditions
+- You see model all have problems
+- Testing Model MTS, MTA
+- Results data
+- Need better names fo L, L, H, need a bullet list what differences applied
+- Give the 4 models characteristics TS, - Low 
+- In data collection have 4 datasets
+- Table training data
+laps | augmentation -> yes or no
+
+- table datasets and model
+- Training laps | Augmentation | Images -> 4750 D-S, D-SA, D-LA
+- Detail of dataset
+- Training method then don't mention images, different settings 20 and 37, augmentation is double image size.
+- I need to explain the actual right total of images, laps driven, number images
+- If remove images then mention
+- "Testint dar" is no good instead "Evaluation results"
+- Evaluation MTS/MTS
+- Discussion + subsection
+- 4.1 data colletion, model training
+- 4.2 Evaluation
+- I need to figure out ROC how to measure performance model
+- Performance evaluation of CNN - this is crucial I need to knwo how good model is, need to check precision, a quantitative measure to evaluate NN, ROC eavaluate
+- Classification problem discretee
+- Recall for regression problem
+- It checks how often you have good steering compared to how often it had bad and it has tolerance
+- NOT "Evaluation" it is ANSWER TO RQ
+- Use table to answer question, go back an forth in the tabel, preliminar expectation all good.
+- Did it help
+- It seems to help when changing light condition
+- Preliminar L case, before answer increasing size data not super hepful.
+- L- H
+- But how aout corrput doe help
+- LC corrupt
+- HC corrupt
+- Adversarial training help more in light used for training
+- 1 L - H
+- LA bad
+- Adv trainig H
+- On topd of data in addddtion to addung data it setil lhave probelms this answer RQ1
+- Answer to RQ
+- Link to this table
+- Look small case
+- Low light for hight ligt not good
+adv traning vision corrupt
+- Standard worse
+- Adv training hellsp not perfect but beter
+- lets compare data help double
+- No, it does not
+- Then pphenomenca corrup vision
+- Light change
+- Discussion after the RQ ansereed
+- Addition corrupt vision better but not perfect
+- Results first dataset have been generated
+- Training metod output
+- Shich models
+- Carachterization recall precision
+- ROC independent variables
+- baseileine
+- input output relation
+- Results four models
+- Last sum up evaluation behavioiurs
+- Anser RQ
+- Discussion check references
+- Video is a bit repetitive but is nice
+- The thesis is sent to opponnent 3 days before defense
+- Meeting again on 15 april
 
 <hr>
 <br>

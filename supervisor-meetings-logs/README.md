@@ -24,7 +24,7 @@
 
 Agenda
 
-- Feedback on the thesis document latest updates (link) 
+- Feedback on the thesis document latest updates 
 - Review next meetings plan below
 
 Plan

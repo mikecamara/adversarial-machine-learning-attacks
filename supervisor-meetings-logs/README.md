@@ -12,6 +12,63 @@
 * [Meeting 9 - 1/February/2022](#meeting-9)
 * [Meeting 10 - 15/February/2022](#meeting-10)
 * [Meeting 11 - 1/March/2022](#meeting-11)
+* [Meeting 12 - 15/March/2022](#meeting-11)
+
+
+<hr>
+<br>
+
+# Meeting 12
+### *15/March/2022 - from 4:03 pm to 4:32 pm - via Skype* (duration approx. 28 minutes)
+<br>
+
+Agenda
+
+- Feedback on the thesis document latest updates (link) 
+- Review next meetings plan below
+
+Plan
+
+- Deliver thesis document ready for supervisor's final feedback (5/Apr - Tuesday)
+- Final wrap up meeting before document submission (15/Apr - Friday)
+- Final thesis submission - (17/ May - Tuesday)
+- Thesis defense (From 31/May to 3/Jun)
+
+<hr>
+
+Meeting
+
+- It would have been better if I had specified better which parts were complete and which parts were not, instead only mentioning that 80% of the suggestions had been implemented.
+- The supervisor reviewed the document and sent me before the meeting.
+- Then, we went ahead with the supervisor's notes.
+- The title should be changed to Using Adversarial Defence Methods to Improve the Performance of DNN-Controlled Automatic Driving Systems (ADS).
+- Controlled Automatic Driving System is a common term currently used in the industry.
+- Watch out to keep consistency with the spelling of the term "defense" either use the British spelling or American, but keep consistency.
+- Use ADS after introducing it
+- In the abstract, I use CNN, but I should use DNN, and then the type of DNN ADS is CNN, and then use CNN from then on.
+- 2. The self Driving platform is fully fine
+- Method table 1 fine
+- Need to fix the distance after table and paragraphs, which seems to be an overleaf bug. It isn't very pleasant.
+- Train - CNN (better CNN Model Training)
+- 3.3 Design an Implementation evaluation
+- 3.2 CNN Model table
+- 3.3.5 Baseline metric, not metricS, also it is a big sentence at the moment. Break it down. 
+- Baseline point in evaluation section
+Value of metric is a metric system, maybe use measure is fine, metric lookup mathematical definition.
+- Measure needs integral measurement
+- Metric is more precise than measure, like the euclidean metric, etc. However, outside the field of mathematics, it is not so relevant.
+- 4.2 THE is not capitalized ... CNN Model
+- 4.3 Reporting the performance of the CNN Models
+- MTS performance in the results section
+- 4.4 "to" preposition in article's title is not capitalized
+- Next meeting, I should anticipate in the email what are the changes I've made in the document.
+- Meeting again on the 5th of April - three weeks away from now. 
+- Then keep the biweekly meetings on the 19/of April and 3/May (last meeting)
+- The GitHub repo must have the code related to the thesis
+- The thesis document content-wise is ready.
+- When I submit the material, it's enough to say that the code can be found at the repo, and then there is a video.
+- I must be clear about where the code is.
+- In the appendix of the thesis add a sentence saying Here is the readme file, including the linked video 
 
 
 <hr>
@@ -175,7 +232,7 @@ laps | augmentation -> yes or no
 - Did it help
 - It seems to help when changing light condition
 - Preliminar L case, before answer increasing size data not super hepful.
-- L- H
+- L - H
 - But how aout corrput doe help
 - LC corrupt
 - HC corrupt

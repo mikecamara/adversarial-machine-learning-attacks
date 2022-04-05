@@ -5,7 +5,7 @@
 * [Thesis PDF Document](PDF/Camara_Software_Engineering_2022.pdf)
 * [Supervisor Meeting Logs](supervisor-meetings-logs/README.md)
 * [Data Extraction Table](https://docs.google.com/spreadsheets/d/1hK-wXvBYuIYqfd0BKTh8oYs5C-CKyelPAqyBtdPVJfQ/edit?usp=sharing)
-* [Thesis LaTeX Document](https://www.overleaf.com/read/hvmfscbftgzp)
+* [Thesis LaTeX Document](https://www.overleaf.com/read/bxcdxwwnbrnz)
 * [Code](code/README.md)
 
 Using adversarial machine learning attacks against cars to evaluate the safety of their DNNs [has been done](https://link.springer.com/chapter/10.1007%2F978-3-030-83903-1_14) in a simulation environment. However, to our knowledge, such threats have not been attempted against real-world scaled vehicles before.

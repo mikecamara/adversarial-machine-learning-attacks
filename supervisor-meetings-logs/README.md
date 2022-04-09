@@ -69,6 +69,13 @@ Remind that when the supervisor receives my email with all the submitted documen
 - Show a picture, explain how the car looks, how often it crashes, and what a crash means, like when the vehicle drives into a wall, then it is clear.
 - I will only know the defense date 2 or 3 days before the actual date. 
 
+Update (7 April):
+
+- Supervisor sent his feedback on the document, and his notes are marked in yellow marked text -> attached comments).
+- Overall, we did a great job. But I have 50 comments that I must address.
+- I need to add the abstract in Estonian.
+- I need to add the CERCS code.
+
 <hr>
 <br>
 

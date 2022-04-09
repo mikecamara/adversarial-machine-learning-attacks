@@ -13,7 +13,61 @@
 * [Meeting 10 - 15/February/2022](#meeting-10)
 * [Meeting 11 - 1/March/2022](#meeting-11)
 * [Meeting 12 - 15/March/2022](#meeting-12) 
+* [Meeting 13 - 5/April/2022](#meeting-13) 
 
+<hr>
+<br>
+
+# Meeting 13
+### *5/April/2022 - from 4:00 pm to 4:27 pm - via Skype* (duration approx. 27 minutes)
+<br>
+
+Agenda
+
+- Feedback on the thesis document's latest updates
+- Review the next meetings plan below
+
+Plan
+- Deliver completed thesis document ready for supervisor's final feedback (5/Apr - Today)
+- Review feedback on the document. Review presentation slides, video, repository (19/Apr - Tuesday)
+- Doc ready for final submission. Focus on the slides and presentation - (3/ May - Tuesday)
+- Deadline thesis submission - (17/ May - Tuesday)
+- Thesis defense (Anytime from 31/May to 3/June or 6 and 7/June )
+- Master's degree graduation ceremony 2022 (21/June - Tuesday at 2 p.m.)
+
+<hr>
+
+Meeting
+- I had sent the document ready a few hours before the meeting, and the supervisor needed more time to analyze the document.
+- The proposed schedule seems okay.
+- Need to polish and submit it, but overall is okay.
+- We don't know the opponent yet, and there are several possible options.
+IMPORTANT - When I submit the document ready to the University of Tartu, I must submit an email to the supervisor saying that I have submitted the final paper to the University of Tartu and send all the files attached in the submission. 
+- Sending an email warning to the supervisor will trigger him to write his opinion and send it to the people in charge of this. Then the opponent is also informed, and hopefully, we have the supervisor on the committee, but it's not guaranteed. 
+- Overall, I must keep the supervisor in the loop. 
+- The exact date for defense I will know is around 28.
+- However, even with an exact date scheduled, there are chances of changing due to date change, opponent issues, or personal issues. 
+- Opponents will send questions in their report before the presentation day.
+- Next meeting is on the 19/of April.
+- Supervisor will return his feedback this coming Sunday.
+- This is not a problem to submit documents earlier than the deadline.
+Remind that when the supervisor receives my email with all the submitted documents, the supervisor will forward them to the opponent.
+- About the presentation, it should be delivered ideally in 14 min and 55 seconds.
+- It's no good to go over time, but it is also no good to not use the time fully.
+- I must read the opponent report carefully.
+- The presentation consists of 5 steps. 
+- First, briefly introduce the topic and motivate content explaining the problem (1 - 2 min)
+- Then Goal I wanted to achieve, explain the RQ, and I should have one slide dedicated to the RQ solely. (2 - 3 min)
+- Next, the method I should show the setup experiment, the toy car (3 - 4 min).
+- Results, this is the main part (3 - 4 min)
+- End summarise and wrap up words, say what interesting could be done if I had more time, END. (1 min)
+- I should set the scene. Many candidates have the misconception that the committee or opponent read their thesis, but they did not. I should assume that no one read it, but I should know the document in detail. The opponent might quickly browse the thesis prior to the defense, and I should remember what I wrote in my thesis. 
+- If I cannot remember three times, it is a bad sign.
+- I should focus on the audience. They should quickly know why I did all that. This is no good when 5 minutes into your presentation and the committee still doesn't know what that is about. 
+- So, set the scene, method, results. 
+- Showing video or simulation is risky and utterly unnecessary for the nature of my project, but photos are okay and recommended. 
+- Show a picture, explain how the car looks, how often it crashes, and what a crash means, like when the vehicle drives into a wall, then it is clear.
+- I will only know the defense date 2 or 3 days before the actual date. 
 
 <hr>
 <br>

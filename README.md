@@ -1,5 +1,8 @@
 # Using Adversarial Defense Methods to Improve the Performance of Deep-Neural-Network-Controlled Automatic Driving Systems
 
+Master’s Thesis (30 ECTS) - University of Tartu and TalTech - Software Engineering Curriculum
+
+
 [![Eperiment Video Demo](https://user-images.githubusercontent.com/8085864/163870015-c82fd772-4f4d-4d3c-8247-f4da53ba3851.png)](https://youtu.be/A_dHfvMgd-w)
 
 ## Useful links

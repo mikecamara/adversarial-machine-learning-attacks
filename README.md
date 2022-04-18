@@ -12,9 +12,6 @@
 * [Code](code/README.md)
 
 
-## Research gap
-Using adversarial machine learning attacks against cars to evaluate the safety of their DNNs [has been done](https://link.springer.com/chapter/10.1007%2F978-3-030-83903-1_14) in a simulation environment. However, to our knowledge, such threats have not been attempted against real-world scaled vehicles before.
-
 ## Topic - ADS
 To create Automatic Driving Systems (ADS), engineers rely on a range of sensors attached to a vehicle or a robot, including radar, lidar, high definition cameras, and GPS.
 

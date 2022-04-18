@@ -24,7 +24,7 @@ c) Transferring the autopilot model back to the car ready to be tested.
 
 To run the following solution, you must have the Donkeycar library installed both in the vehicle itself and your personal computer or a simple Google Colab repository. 
 
-If you would like more information on to create a Donkeycar from scratch you can read [my blog post](https://softwareengineering.netlify.app/donkey-car/ )in which I go in detail about how to install the libraries in both the vehicle and your computer, you can always check the [Donkeycar official documentation](https://docs.donkeycar.com/). 
+If you would like more information on to create a Donkeycar from scratch you can read [my blog post](https://softwareengineering.netlify.app/donkey-car/ ) in which I go in detail about how to install the libraries in both the vehicle and your computer, you can always check the [Donkeycar official documentation](https://docs.donkeycar.com/). You can also read [my experience in the Delta-X autonomous vehicles competition](https://github.com/mikecamara/self-driving-competition-delta-x).
 
 
 ## Running the experiment code

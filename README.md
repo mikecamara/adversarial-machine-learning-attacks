@@ -17,7 +17,7 @@ Master’s Thesis (30 ECTS) - University of Tartu and TalTech - Software Enginee
 ## Topic - ADS
 To create Automatic Driving Systems (ADS), engineers rely on a range of sensors attached to a vehicle or a robot, including radar, lidar, high definition cameras, and GPS. However, creating an automatic driving system entirely controlled by a Neural Neural network using a single RGB camera is also possible.
 
-The process is called behavioral cloning and involves training a convolutional neural network (CNN) with many good driving examples. In other words, an expert operates the vehicle, collecting images that are labeled with throttle and steering values. This data is then used to train a CNN model capable of automatically driving in the route it has been trained. 
+The process is called behavioral cloning and involves training a Convolutional Neural Network (CNN) with many good driving examples. In other words, an expert operates the vehicle, collecting images that are labeled with throttle and steering values. This data is then used to train a CNN model capable of automatically driving in the route it has been trained. 
 
 ## The problem
 

@@ -2,7 +2,7 @@
 
 Master’s Thesis (30 ECTS) - University of Tartu and TalTech - Software Engineering Curriculum
 
-![Eperiment Video Demo](https://user-images.githubusercontent.com/8085864/163942155-b5d5670f-08c3-4303-a227-5c4a658a8024.png)
+[![Eperiment Video Demo](https://user-images.githubusercontent.com/8085864/163942155-b5d5670f-08c3-4303-a227-5c4a658a8024.png)](https://youtu.be/A_dHfvMgd-w)
 
 ## Useful links
 

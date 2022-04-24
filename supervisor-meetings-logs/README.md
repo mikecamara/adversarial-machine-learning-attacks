@@ -14,6 +14,67 @@
 * [Meeting 11 - 1/March/2022](#meeting-11)
 * [Meeting 12 - 15/March/2022](#meeting-12) 
 * [Meeting 13 - 5/April/2022](#meeting-13) 
+* [Meeting 14 - 19/April/2022](#meeting-14) 
+
+
+
+<hr>
+<br>
+
+# Meeting 14
+### *19/April/2022 - from 4:20 pm to 5:03 pm - via Skype* (duration approx. 43 minutes)
+<br>
+
+Agenda
+
+- Review the plan below
+
+
+Plan
+
+- Review feedback on the latest changes on the thesis document, repository, video, and presentation slides (19/Apr - Today)
+- Deadline thesis submission - (17/ May - Tuesday)
+- Thesis defense (Someday from 31/May to 7/June)
+- Master's degree graduation ceremony 2022 (21/June - Tuesday at 2 p.m.)
+
+<hr>
+
+Meeting
+
+Meeting
+- Table 1 - The caption - most tables in journals have the caption on top, and figures have the caption on the bottom.
+- Usually, people add short captions. My captions are too big, and I should incorporate the information in paragraphs and write something like "Table shows independent variables and results." 
+- Long tables are more common in books. 
+- Also, the table caption font should be smaller and appropriately indented. 
+- The formalities of the document and content look okay.
+- It is unnecessary to add the presentation to the submitted material or repository.
+- All the additional material can be on the repo, but I have to be very specific in the thesis document about what is available in the repository, for instance, "There is this, and this, and these additional materials in the repo."
+- Always only refer to my supervisor using Name Last Surname format. 
+- Because of the nature of my project, I should not add any attached document, a zip file, or folder with my submission. However, I should be particular and precise in the document, in-text, but mainly in the appendix, and visible in the table of contents that there is a video available and all additional material. I should make it a short headline mentioning that all code and additional material is in the GitHub link.
+- It should be in the following format:
+- (A1) GitHub repository
+- (A2) Video
+- I should have a license in the table of contents
+- I should look for references from a recently submitted thesis. 
+- So A1 and A2 are better and also have the license
+- Have to make it easy for people to access. 
+- Remove Lisad part, as it is unnecessary.
+- So my appendix will be 1) Terms, 2) Repo list what is the link, 3) Video, 4) License (look at examples of other students), and check if I need to add the license in Estonian too.
+- In-text, also remember to add ref to GitHub in text. 
+- At the exact moment that I submit, I might receive an email notification. I should forward this email to my supervisor with whatever documents I have submitted attached, in my case, the link to the thesis. 
+- There is a delay in the system, and this confirmation from my side will trigger the supervisor to find an opponent and communicate with the administration.
+- After that, besides preparing for my presentation, all I have to do is wait for the opponent's review, which usually is ready only a few days before the defense. 
+- Date and time also are only available a few days before the defense.
+- After the presentation, there is a Q&A session with unlimited time. However, after the open floor, the supervisor statement, I will have about a minute to say a few positive words in which I should politely acknowledge the people involved in my work and the institutions. Then they move to the next candidate if there is any. 
+The day's grades will be delivered after the meeting is closed. 
+- In my presentation, I should explain why machine learning achieves my goal, which translates into a research question. 
+- Maybe spend about one minute introducing the topic
+- I should really focus on the Method, describe the experimental setup, the artifacts I used, etc
+- The supervisor agreed to extend his support with my presentation.
+- The next version of the presentation should be complete, so we can discuss it and make adjustments.
+- The thesis is looking good. I could make the few necessary adjustments and submit it. However, there is also the opportunity to fix the mistakes, make a bullet list of the changes, and send feedback to the supervisor. 
+- The following meetings are on 10/May and 24/May at 4 pm.
+
 
 <hr>
 <br>

@@ -41,7 +41,6 @@ Plan
 
 Meeting
 
-Meeting
 - Table 1 - The caption - most tables in journals have the caption on top, and figures have the caption on the bottom.
 - Usually, people add short captions. My captions are too big, and I should incorporate the information in paragraphs and write something like "Table shows independent variables and results." 
 - Long tables are more common in books. 

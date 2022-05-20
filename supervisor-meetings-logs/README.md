@@ -15,11 +15,129 @@
 * [Meeting 12 - 15/March/2022](#meeting-12) 
 * [Meeting 13 - 5/April/2022](#meeting-13) 
 * [Meeting 14 - 19/April/2022](#meeting-14) 
+* [Meeting 15 - 10/May/2022](#meeting-15) 
+
+<hr>
+<br>
+
+# Meeting 15
+### *10/May/2022 - from 4:30 pm to 18:04 pm - via Skype* (duration approx. 1 hour 34 minutes)
+<br>
+
+Agenda
+
+- Thesis changes 
+
+- Defense presentation 
+
+- Review the plan below
+
+
+Plan
+
+- Review feedback on the latest changes on the thesis document and presentation slides (10/May - Today)
+
+- Deadline thesis submission (until 17/ May - Tuesday) - IMPORTANT to forward the email confirmation message to the supervisor immediately after the thesis submission.
+
+- Meeting to review final presentation slides (24/ May - Tuesday)
+
+- Thesis defense (Someday from 31/May to 7/June)
+
+- Master's degree graduation ceremony 2022 (21/June - Tuesday at 2 p.m.)
+
+
+<hr>
+
+Meeting
+
+- Thesis PDF doc is fine for submission.
+- Presentation needs improvement and clarity
+- I should start the presentation by bringing the issue with the end-to-end driving (maybe a rapid intro difference between modular and end-to-end)
+The problem is complicated and needs many data. One suggestion about tackling this issue is what I do in the thesis, which is to augment the dataset with synthetically generated data by manipulating the data. 
+- Create a graph with the basic idea of manipulating the data.
+- I should use the first 3 minutes to expose the main point of the thesis without rushing.
+- This brings to the research question, which I should state but not read, rephrase, and focus on the main point, which is to improve the performance of the CNN in unseen lighting conditions.
+- The main goal and exact scope are to improve the performance in unseen lighting conditions.
+- Explain in detail how to do that. I have an experiment in which I compare standard approaches with a different training approach that I did not invent. The experiment was split and compared.
+- Use the application to refer to the inference time.
+- Machine learning inference is the process of running data points into a machine learning model to calculate an output such as a single numerical score. This process is also referred to as "operationalizing a machine learning model" or "putting a machine learning model into production."
+- Explain how I started with the same data, and then we augment.
+- Methods
+- Slide 8 - The purpose of this slide is to expose the background and the elements I use to train my car.
+- Explain how the car collects data.
+- Only show the lower lights
+- In the following slides about the different pieces of training show the tradition but also add the corruption
+- I should add an image with dots to graphically represent the corruption.
+- Explain how I merge and join the bash datasets making them more prominent.
+-  Not to mention high lights so far.
+- Make here a good distinction between the purpose of the background to train the car, what the car is, the data, label, and the low light conditions.
+- The new method uses low light data corrupted. Then double the dataset with corrupted data. It is crucial to explain how we do not mix high lights in the dataset.
+In slide 8, compared with the new and the old model, add some spots on the image to illustrate the idea of corrupted data. 
+- In Slide 9 - Not only low light but also low light with corruption
+- Data is augmented
+- I must explain that T= Training consists of Small, Large, and Augmented.
+- M goes for model and train with augmented corrupted data. 
+On slide 10, I must explain the concept of higher lights and what the abbreviations HC and LC mean. So I should start from the bottom corner and go to the high lights.
+- Explain how in principle, is expected in L; it should work fine for the four models because it was trained with that condition. 
+- For the highlight is a question mark ??? We just don't know.
+- Would this work? We do not know.
+- Explain the corruption and the high light with corruption, and LC - We have no idea what will happen in those cases.
+- Then, I move to the light levels, and I explain how it is not uniform levels.
+- Explain how later, when we analyze the performance, if not ideal, then inspect if the crashes are random or if there are patterns of failure. 
+- In the lux table, I should bring emphasis the significant differences.
+- Training condition standard VS training condition corrupted
+- On slide ten is crucial to mention the number of corrupted images. In that case, all images could be corrupted.
+- In the next slide, 11 - explain how this is the overview of the complete evaluation conditions where the car runs for two laps. We discussed lights and vision in the previous slides, so here I add the laps to the context.
+- Add the as a yardstick. I use the collision number.
+- Mention how the corrupted pixels are changed.
+- Make all the titles the same big size and make them stand out on the slide
+- In the results section
+- Start how lower light all performed well, which is what we expected.
+- Then, jump to highlight - the major success of the new model training, which is not the case when using the standard methods.
+- Mention how adding more data to the standard approach only improve insignificantly.
+- The new approach works fine.
+- Move to the HC worst. It is expected not to work perfectly but is still better than the conventional approach.
+- Then move to LC, which is strange.
+- It is surprising how it works worse than HC.
+- DNN is black boxes, and I can only speculate about why LC is worse than HC.
+We could speculate that the evaluation corrupts the HC. It resembles the L training conditions more.
+- So the LC would be more different from the training data than H or HC
+- Key concept is that during the method used during corruption in the evaluation time, the corruption is freshly created on the flight. What the model is seeing could be different from the corruption.
+- So, possibly the LC is more different from L than HC is.
+- I admit I did not have enough time, in the end, to investigate deeply why corrupt LC image is more complex than higher lights.
+- Higher lights are a type of corruption.
+- A pure speculation could be that the High light has a systematically smaller corruption than the one corruption artificially generated in LC and HC.
+- The corruption gets stronger when adding the Hight light.
+- It is easier for the models to navigate H than LC or HC.
+- A hypothesis is that the systematic corruption on the fly is different from the corruption on the dataset.
+- I did not have time to check but to check, I could measure the pixels in the data and find the differences in measurements for LC in Training and H data evaluation.
+- It is essential to mention that the corruption is much higher in LC and HC than in H condition, which again is some sort of natural corruption. 
+- The difference between LC and HC may have happened that the systematically shift corruption effect in HC somehow the corruption becomes smaller or less effective, and that is why it is smaller. 
+- So, the highlights reduce the effect of corruption.
+- Summary of how to explain the results:
+- Start L column
+- Main goal H achieved, standard no good, proposed great.
+- When corrupting data during evaluating intriguing results.
+- HC more data made it even worse
+- The same in adversarial models where more data decreases performance.
+- The speculation is that more data makes the model overfit even more than the training data. 
+- The crashes in adversarial models could be related to the corruption on the fly, showing pictures of the model different from the data. The data is not the same. 
+- With standard methods, LC is the worse. It's hard to explain. I can only speculate about why LC is worse than HC if I compare pixels' differences in the image from training and application running time.
+- The post hoc analysis shows intriguing results. 
+- For slide 13, there is too much text. It needs improvement.
+- I should briefly say that the CNN standard model only works well in low light
+- This is not the same for the proposed method, which also performs well in L but for the High is succeeded, the standard fails in H. 
+- Creating corruption on the fly it is better but still not perfect
+- 1) The main goal was to improve in unseen conditions. The proposed method worked fine. The standard did not.
+- 2) Increasing the volume of data was not enough to perform well in H; increasing the amount of data did not substantially improve the performance.
+- 3) For the evaluation with the corruption on the fly, all data given to the model is corrupted, while during training, only half of the data was corrupted. The new models, although still not perfect, they worked better.
+- 4) I did not analyze how the corruption data was so bad for standard. One needs to have a better understanding. The post hoc analysis should look into differences between training and evaluation data to comprehend the strange behavior in a deeper analysis.
 
 
 
 <hr>
 <br>
+
 
 # Meeting 14
 ### *19/April/2022 - from 4:20 pm to 5:03 pm - via Skype* (duration approx. 43 minutes)

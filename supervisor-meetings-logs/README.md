@@ -16,9 +16,80 @@
 * [Meeting 13 - 5/April/2022](#meeting-13) 
 * [Meeting 14 - 19/April/2022](#meeting-14) 
 * [Meeting 15 - 10/May/2022](#meeting-15) 
+* [Meeting 16 - 24/May/2022](#meeting-16) 
+
 
 <hr>
 <br>
+
+# Meeting 16
+### *24/May/2022 - from 4:02 pm to 17:08 pm - via Skype* (duration approx. 1 hour 07 minutes)
+<br>
+
+Agenda
+
+- Defense presentation rehearsal feedback
+
+- Review the plan below
+
+
+Plan
+
+- Meeting to review presentation slides (24/ May - Tuesday)
+
+- Thesis defense (Someday from 31/May to 7/June)
+
+- Master's degree graduation ceremony 2022 (21/June - Tuesday at 2 p.m.)
+
+
+<hr>
+
+Meeting
+
+- Currently taking 19 minutes to present, which is unacceptable, should do in 15 minutes. Sixteen minutes is okay-ish. Over 16, it is an offense.
+- Goal should come before RQ.
+- Brief stop.
+- Start explaining the method.
+- Should use the term imitation learning instead of behavioral cloning because it is more well-known and intuitive overall.
+- Explain how I apply imitation learning in the real world.
+- Up to this moment, I had already taken 7 min, a bit too much.
+- The method should be reduced. Mention how we train the CNN model for the control group using a standard setup
+- Even though it is okay is not explicitly displayed on the slides, I must know the number of images in the dataset by heart and have a backup slide with the figures
+- Now, move the entire large dataset and explain that it is the same setup. This will save me some time.
+- It has been just duplicated. Everything is the same but with more data.
+- In the slide about the conditions, first, isolate L and H conditions, and explain how all the four models will be tested in this main experiment.
+- Then, on top of that, we add LC and HC conditions to check how robust the model is when dealing with a corrupted vision.
+- This is an add-on for the project
+- Throw the hope and expectation emojis
+- For these other two?
+- Max two sentences
+- The final evaluation slide explains shortly that it runs for two laps, and collisions are used to check the quality of the models. 
+- Results section needs reorganization
+- First, start with results in all L
+- Then only show the results of standard methods in H to raise the suspense
+- Then, to keep the storyline now, let's see how these new methods work with corruption
+- Show 2 5 - 3 5 section together
+- It was not perfect but better than 5 and 4 in H
+- Then jump to standard results
+- In the results is expected that adversarial models would have a better performance than standard
+- In adversarial methods is expected HC to have more collisions
+- What is intriguing is that in standard conditions, LC has more collisions than HC, only this we did not understand well.
+- One can speculate 
+- Having more data only helps to slight in 5-4 H
+- 0 - 0 quite excellent and convincing that the adversarial method is valid.
+- Then, I should put all the future work together in one slide, and this slide will be either shorter or longer depending on how much time is remaining.
+- This is the moment that I have to check the watch.
+- I should make sure I try on the mirror or standing in the room.
+- Control the time.
+- The company's slides have to be removed to the backup section. It's taking time and is irrelevant to the thesis.
+- I tend to talk too much. I should avoid that and make sure I plan what to say and say exactly that.
+- During Q & A, make sure I understand precisely the question and give a short exact answer for that, do not deviate and start to talk about myself and my opinion. 
+- So listen carefully and answer the question.
+- Questions can be immersive, going back and forth with the audience
+
+<hr>
+<br>
+
 
 # Meeting 15
 ### *10/May/2022 - from 4:30 pm to 18:04 pm - via Skype* (duration approx. 1 hour 34 minutes)

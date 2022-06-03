@@ -12,6 +12,8 @@ Master’s Thesis (30 ECTS) - University of Tartu and TalTech - Software Enginee
 * [Data Extraction Table](https://docs.google.com/spreadsheets/d/1hK-wXvBYuIYqfd0BKTh8oYs5C-CKyelPAqyBtdPVJfQ/edit?usp=sharing)
 * [Thesis LaTeX Document](https://www.overleaf.com/read/fczpcqqmknvp)
 * [Code](code/README.md)
+* [Defense Presentation Slides](defense-presentation-slides/camara_soft_eng_2022.pdf)
+* [Thesis Poster](thesis-poster/poster-masters-software-engineering-mike-camara.pdf)
 
 
 ## Topic - ADS
